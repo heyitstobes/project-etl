@@ -1,0 +1,168 @@
+,Year,State,Yes
+0,2008,Louisiana,20.5
+1,2008,Virginia,16.4
+2,2008,Texas,18.5
+3,2008,Kentucky,25.2
+4,2008,Oregon,16.3
+5,2008,Iowa,18.8
+6,2008,Delaware,17.8
+7,2008,Nationwide (States and DC),18.4
+8,2008,North Carolina,20.9
+9,2008,South Carolina,20.0
+10,2008,Illinois,21.3
+11,2008,Connecticut,15.9
+12,2008,Colorado,17.6
+13,2008,Indiana,26.0
+14,2008,Utah,9.3
+15,2008,Michigan,20.5
+16,2008,Alaska,21.5
+17,2008,Puerto Rico,11.6
+18,2008,North Dakota,18.1
+19,2008,Minnesota,17.6
+20,2008,Ohio,20.1
+21,2008,West Virginia,26.5
+22,2008,District of Columbia,16.2
+23,2008,Oklahoma,24.7
+24,2008,Tennessee,23.1
+25,2008,New Jersey,14.8
+26,2008,Arkansas,22.3
+27,2008,Pennsylvania,21.3
+28,2008,Missouri,25.0
+29,2008,Nebraska,18.4
+30,2008,Florida,17.5
+31,2008,Wisconsin,19.9
+32,2008,Maryland,14.9
+33,2008,Massachusetts,16.1
+34,2008,Montana,18.5
+35,2008,New Mexico,19.4
+36,2008,Kansas,17.9
+37,2008,Rhode Island,17.4
+38,2008,Georgia,19.5
+39,2008,Washington,15.7
+40,2008,Mississippi,22.7
+41,2008,California,14.0
+42,2008,Wyoming,19.4
+43,2008,Vermont,16.8
+44,2008,Hawaii,15.4
+45,2008,Maine,18.2
+46,2008,Arizona,15.9
+47,2008,South Dakota,17.5
+48,2008,Alabama,22.1
+49,2008,New York,16.8
+50,2008,Nevada,22.2
+51,2008,New Hampshire,17.1
+52,2008,Virgin Islands,6.4
+53,2008,Idaho,16.9
+54,2008,Guam,27.4
+55,2009,District of Columbia,15.3
+56,2009,Missouri,23.1
+57,2009,"Nationwide (States, DC, and Territories)",17.9
+58,2009,California,12.9
+59,2009,Wyoming,19.9
+60,2009,New Mexico,17.9
+61,2009,Colorado,17.1
+62,2009,Georgia,17.7
+63,2009,New Hampshire,15.8
+64,2009,Nevada,22.0
+65,2009,Rhode Island,15.1
+66,2009,Alabama,22.5
+67,2009,Massachusetts,15.0
+68,2009,Virginia,19.0
+69,2009,Louisiana,22.1
+70,2009,Utah,9.8
+71,2009,Nebraska,16.7
+72,2009,Pennsylvania,20.2
+73,2009,Nationwide (States and DC),17.9
+74,2009,Mississippi,23.3
+75,2009,Oklahoma,25.5
+76,2009,Vermont,17.1
+77,2009,West Virginia,25.6
+78,2009,North Carolina,20.3
+79,2009,Montana,16.8
+80,2009,Maine,17.3
+81,2009,Puerto Rico,10.6
+82,2009,Oregon,17.9
+83,2009,Tennessee,22.0
+84,2009,Maryland,15.2
+85,2009,Ohio,20.3
+86,2009,Washington,14.9
+87,2009,South Dakota,17.5
+88,2009,Guam,24.1
+89,2009,Idaho,16.3
+90,2009,Kansas,17.8
+91,2009,Texas,17.9
+92,2009,Indiana,23.1
+93,2009,New York,18.0
+94,2009,Connecticut,15.4
+95,2009,Virgin Islands,6.4
+96,2009,New Jersey,15.8
+97,2009,Arkansas,21.5
+98,2009,Michigan,19.6
+99,2009,Delaware,18.3
+100,2009,Florida,17.1
+101,2009,Kentucky,25.6
+102,2009,Minnesota,16.8
+103,2009,Wisconsin,18.8
+104,2009,South Carolina,20.4
+105,2009,Arizona,16.1
+106,2009,Hawaii,15.4
+107,2009,North Dakota,18.6
+108,2009,Alaska,20.6
+109,2009,Illinois,18.6
+110,2009,Iowa,17.2
+111,2010,Arizona,15.0
+112,2010,Montana,18.8
+113,2010,Indiana,21.2
+114,2010,Wyoming,19.5
+115,2010,Nationwide (States and DC),17.3
+116,2010,Virgin Islands,5.8
+117,2010,Delaware,17.3
+118,2010,Illinois,16.9
+119,2010,Alabama,21.9
+120,2010,District of Columbia,15.6
+121,2010,Colorado,16.0
+122,2010,Ohio,22.5
+123,2010,North Dakota,17.4
+124,2010,Nevada,21.3
+125,2010,Arkansas,22.9
+126,2010,Georgia,17.6
+127,2010,Guam,25.8
+128,2010,Michigan,18.9
+129,2010,Pennsylvania,18.4
+130,2010,Utah,9.1
+131,2010,Idaho,15.7
+132,2010,New Mexico,18.5
+133,2010,North Carolina,19.8
+134,2010,New Jersey,14.4
+135,2010,Connecticut,13.2
+136,2010,California,12.1
+137,2010,Kansas,17.0
+138,2010,West Virginia,26.8
+139,2010,Wisconsin,19.1
+140,2010,Puerto Rico,11.9
+141,2010,South Carolina,21.0
+142,2010,Nebraska,17.2
+143,2010,Kentucky,24.8
+144,2010,Missouri,21.1
+145,2010,Texas,15.8
+146,2010,Virginia,18.5
+147,2010,Mississippi,22.9
+148,2010,Massachusetts,14.1
+149,2010,Oklahoma,23.7
+150,2010,Washington,15.2
+151,2010,Alaska,20.4
+152,2010,Louisiana,22.1
+153,2010,Florida,17.1
+154,2010,Iowa,16.1
+155,2010,Minnesota,14.9
+156,2010,Rhode Island,15.7
+157,2010,New York,15.5
+158,2010,Maryland,15.2
+159,2010,Oregon,15.1
+160,2010,Tennessee,20.1
+161,2010,Hawaii,14.5
+162,2010,South Dakota,15.4
+163,2010,"Nationwide (States, DC, and Territories)",17.3
+164,2010,Vermont,15.4
+165,2010,New Hampshire,16.9
+166,2010,Maine,18.2
