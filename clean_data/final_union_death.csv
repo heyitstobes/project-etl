@@ -1,1037 +1,1037 @@
-,cause_code,count,poll_year,cause
-0,5,2,2008, Typhoid fever (A01.0)
-1,6,44,2008, Paratyphoid fevers and other salmonella infections (A01.1-A01.4A02)
-2,6,26,2009, Paratyphoid fevers and other salmonella infections (A01.1-A01.4A02)
-3,6,28,2010, Paratyphoid fevers and other salmonella infections (A01.1-A01.4A02)
-4,7,3,2008, Shigellosis (A03)
-5,7,4,2009, Shigellosis (A03)
-6,7,2,2010, Shigellosis (A03)
-7,8,7,2008, Other bacterial food-borne intoxications (A05)
-8,8,4,2009, Other bacterial food-borne intoxications (A05)
-9,9,3,2008, Amebiasis (A06)
-10,9,1,2010, Amebiasis (A06)
-11,10,7747,2008, Intestinal infections due to other specified organisms (A04A07-A08)
-12,10,7498,2009, Intestinal infections due to other specified organisms (A04A07-A08)
-13,10,7545,2010, Intestinal infections due to other specified organisms (A04A07-A08)
-14,11,134,2008, Diarrhea and gastroenteritis of infectious origin (A09)
-15,11,2759,2009, Diarrhea and gastroenteritis of infectious origin (A09)
-16,11,2745,2010, Diarrhea and gastroenteritis of infectious origin (A09)
-17,13,449,2008, Respiratory tuberculosis (A16)
-18,13,411,2009, Respiratory tuberculosis (A16)
-19,13,428,2010, Respiratory tuberculosis (A16)
-20,14,136,2008, Other tuberculosis (A17-A19)
-21,14,126,2009, Other tuberculosis (A17-A19)
-22,14,147,2010, Other tuberculosis (A17-A19)
-23,18,3,2008, Tetanus (A33-A35)
-24,18,6,2009, Tetanus (A33-A35)
-25,18,3,2010, Tetanus (A33-A35)
-26,20,20,2008, Whooping cough (A37)
-27,20,15,2009, Whooping cough (A37)
-28,20,26,2010, Whooping cough (A37)
-29,21,3,2008, Scarlet fever and erysipelas (A38A46)
-30,21,5,2009, Scarlet fever and erysipelas (A38A46)
-31,21,3,2010, Scarlet fever and erysipelas (A38A46)
-32,22,102,2008, Meningococcal infection (A39)
-33,22,100,2009, Meningococcal infection (A39)
-34,22,80,2010, Meningococcal infection (A39)
-35,23,35980,2008, Septicemia (A40-A41)
-36,23,35694,2009, Septicemia (A40-A41)
-37,23,34865,2010, Septicemia (A40-A41)
-38,24,1750,2008, Other zoonotic and bacterial diseases (A21-A22A24-A32A42-A44 A48-A49)
-39,24,1774,2009, Other zoonotic and bacterial diseases (A21-A22A24-A32A42-A44 A48-A49)
-40,24,1771,2010, Other zoonotic and bacterial diseases (A21-A22A24-A32A42-A44 A48-A49)
-41,27,1,2008, Cardiovascular syphilis (A52.0)
-42,27,3,2009, Cardiovascular syphilis (A52.0)
-43,27,2,2010, Cardiovascular syphilis (A52.0)
-44,28,18,2008, Neurosyphilis (A52.1-A52.3)
-45,28,20,2009, Neurosyphilis (A52.1-A52.3)
-46,28,16,2010, Neurosyphilis (A52.1-A52.3)
-47,29,15,2008, Other and unspecified syphilis (A50-A51A52.7-A52.9A53)
-48,29,11,2009, Other and unspecified syphilis (A50-A51A52.7-A52.9A53)
-49,29,10,2010, Other and unspecified syphilis (A50-A51A52.7-A52.9A53)
-50,30,2,2008, Gonococcal infection (A54)
-51,30,1,2009, Gonococcal infection (A54)
-52,30,2,2010, Gonococcal infection (A54)
-53,31,3,2008, Other infections with a predominately sexual mode of transmission (A55-A64)
-54,31,2,2009, Other infections with a predominately sexual mode of transmission (A55-A64)
-55,31,2,2010, Other infections with a predominately sexual mode of transmission (A55-A64)
-56,33,10,2008, Lyme disease (A69.2)
-57,33,12,2009, Lyme disease (A69.2)
-58,33,10,2010, Lyme disease (A69.2)
-59,35,11,2008, All other infections caused by spirochetes chlamydia or rickettsia (A65-A68A69.0-A69.1A69.8-A69.9A70-A74A77-A79)
-60,35,17,2009, All other infections caused by spirochetes chlamydia or rickettsia (A65-A68A69.0-A69.1A69.8-A69.9A70-A74A77-A79)
-61,35,13,2010, All other infections caused by spirochetes chlamydia or rickettsia (A65-A68A69.0-A69.1A69.8-A69.9A70-A74A77-A79)
-62,38,2,2008, Rabies (A82)
-63,38,4,2009, Rabies (A82)
-64,38,1,2010, Rabies (A82)
-65,39,2,2008, Arthropod-borne viral encephalitis (A83-A84A85.2)
-66,39,2,2009, Arthropod-borne viral encephalitis (A83-A84A85.2)
-67,39,9,2010, Arthropod-borne viral encephalitis (A83-A84A85.2)
-68,41,66,2008, Other and unspecified arthropod-borne viral and hemorrhagic fevers (A90-A94A96-A99)
-69,41,39,2009, Other and unspecified arthropod-borne viral and hemorrhagic fevers (A90-A94A96-A99)
-70,41,65,2010, Other and unspecified arthropod-borne viral and hemorrhagic fevers (A90-A94A96-A99)
-71,42,178,2008, Herpesviral (herpes simplex) infections (B00)
-72,42,186,2009, Herpesviral (herpes simplex) infections (B00)
-73,42,190,2010, Herpesviral (herpes simplex) infections (B00)
-74,43,147,2008, Zoster (herpes zoster) (B02)
-75,43,133,2009, Zoster (herpes zoster) (B02)
-76,43,170,2010, Zoster (herpes zoster) (B02)
-77,47,7656,2008, Viral hepatitis (B15-B19)
-78,47,7716,2009, Viral hepatitis (B15-B19)
-79,47,7579,2010, Viral hepatitis (B15-B19)
-80,49,3834,2008, Human immunodeficiency virus (HIV) disease resulting in infectious and parasitic diseases (B20)
-81,49,3558,2009, Human immunodeficiency virus (HIV) disease resulting in infectious and parasitic diseases (B20)
-82,49,3103,2010, Human immunodeficiency virus (HIV) disease resulting in infectious and parasitic diseases (B20)
-83,50,848,2008, Human immunodeficiency virus (HIV) disease resulting in malignant neoplasms (B21)
-84,50,739,2009, Human immunodeficiency virus (HIV) disease resulting in malignant neoplasms (B21)
-85,50,694,2010, Human immunodeficiency virus (HIV) disease resulting in malignant neoplasms (B21)
-86,51,1115,2008, Human immunodeficiency virus (HIV) disease resulting in other specified diseases (B22)
-87,51,1061,2009, Human immunodeficiency virus (HIV) disease resulting in other specified diseases (B22)
-88,51,944,2010, Human immunodeficiency virus (HIV) disease resulting in other specified diseases (B22)
-89,52,1795,2008, Human immunodeficiency virus (HIV) disease resulting in other conditions (B23)
-90,52,1725,2009, Human immunodeficiency virus (HIV) disease resulting in other conditions (B23)
-91,52,1588,2010, Human immunodeficiency virus (HIV) disease resulting in other conditions (B23)
-92,53,2753,2008, Unspecified human immunodeficiency virus (HIV) disease (B24)
-93,53,2361,2009, Unspecified human immunodeficiency virus (HIV) disease (B24)
-94,53,2077,2010, Unspecified human immunodeficiency virus (HIV) disease (B24)
-95,54,1076,2008, All other and unspecified viral diseases (A81A85.0-A85.1A85.8 A86-A89B01B04B07-B09B25-B34)
-96,54,1012,2009, All other and unspecified viral diseases (A81A85.0-A85.1A85.8 A86-A89B01B04B07-B09B25-B34)
-97,54,1058,2010, All other and unspecified viral diseases (A81A85.0-A85.1A85.8 A86-A89B01B04B07-B09B25-B34)
-98,56,1022,2008, Mycoses (B35-B49)
-99,56,1059,2009, Mycoses (B35-B49)
-100,56,985,2010, Mycoses (B35-B49)
-101,58,5,2008, Malaria (B50-B54)
-102,58,4,2009, Malaria (B50-B54)
-103,58,11,2010, Malaria (B50-B54)
-104,60,6,2008, Trypanosomiasis (B56-B57)
-105,60,3,2009, Trypanosomiasis (B56-B57)
-106,60,3,2010, Trypanosomiasis (B56-B57)
-107,61,129,2008, Pneumocystosis (B59)
-108,61,124,2009, Pneumocystosis (B59)
-109,61,122,2010, Pneumocystosis (B59)
-110,62,28,2008, Other and unspecified protozoal diseases (B58B60-B64)
-111,62,18,2009, Other and unspecified protozoal diseases (B58B60-B64)
-112,62,19,2010, Other and unspecified protozoal diseases (B58B60-B64)
-113,64,1,2008, Schistosomiasis (bilharziasis) (B65)
-114,64,2,2009, Schistosomiasis (bilharziasis) (B65)
-115,64,1,2010, Schistosomiasis (bilharziasis) (B65)
-116,65,19,2008, Other and unspecified helminthiases (B66-B83)
-117,65,25,2009, Other and unspecified helminthiases (B66-B83)
-118,65,21,2010, Other and unspecified helminthiases (B66-B83)
-119,66,57,2008, Sequelae of tuberculosis (B90)
-120,66,45,2009, Sequelae of tuberculosis (B90)
-121,66,39,2010, Sequelae of tuberculosis (B90)
-122,67,396,2008, Sequelae of poliomyelitis (B91)
-123,67,315,2009, Sequelae of poliomyelitis (B91)
-124,67,309,2010, Sequelae of poliomyelitis (B91)
-125,68,1010,2008, All other and unspecified infectious and parasitic diseases and their sequelae (B85-B89B92-B99)
-126,68,1075,2009, All other and unspecified infectious and parasitic diseases and their sequelae (B85-B89B92-B99)
-127,68,1035,2010, All other and unspecified infectious and parasitic diseases and their sequelae (B85-B89B92-B99)
-128,72,68,2008, Of lip (C00)
-129,72,57,2009, Of lip (C00)
-130,72,69,2010, Of lip (C00)
-131,73,1984,2008, Of tongue (C01-C02)
-132,73,1975,2009, Of tongue (C01-C02)
-133,73,2127,2010, Of tongue (C01-C02)
-134,74,3270,2008, Of pharynx (C10-C13C14.0)
-135,74,3169,2009, Of pharynx (C10-C13C14.0)
-136,74,3355,2010, Of pharynx (C10-C13C14.0)
-137,75,2703,2008, Of other and unspecified sites within the lip oral cavity and pharynx (C03-C09C14.2-C14.8)
-138,75,2735,2009, Of other and unspecified sites within the lip oral cavity and pharynx (C03-C09C14.2-C14.8)
-139,75,2933,2010, Of other and unspecified sites within the lip oral cavity and pharynx (C03-C09C14.2-C14.8)
-140,77,13729,2008, Of esophagus (C15)
-141,77,13922,2009, Of esophagus (C15)
-142,77,14506,2010, Of esophagus (C15)
-143,78,11384,2008, Of stomach (C16)
-144,78,11208,2009, Of stomach (C16)
-145,78,11415,2010, Of stomach (C16)
-146,79,1192,2008, Of small intestine (C17)
-147,79,1195,2009, Of small intestine (C17)
-148,79,1220,2010, Of small intestine (C17)
-149,81,43449,2008, Colon (C18)
-150,81,42238,2009, Colon (C18)
-151,81,42056,2010, Colon (C18)
-152,82,9216,2008, Rectosigmoid junction and rectum (C19-C20)
-153,82,9388,2009, Rectosigmoid junction and rectum (C19-C20)
-154,82,9807,2010, Rectosigmoid junction and rectum (C19-C20)
-155,83,718,2008, Anus and anus canal (C21)
-156,83,818,2009, Anus and anus canal (C21)
-157,83,814,2010, Anus and anus canal (C21)
-158,85,14206,2008, Liver (C22.0C22.2-C22.9)
-159,85,14993,2009, Liver (C22.0C22.2-C22.9)
-160,85,15568,2010, Liver (C22.0C22.2-C22.9)
-161,86,4045,2008, Intrahepatic bile duct carcinoma (C22.1)
-162,86,4400,2009, Intrahepatic bile duct carcinoma (C22.1)
-163,86,4774,2010, Intrahepatic bile duct carcinoma (C22.1)
-164,87,3351,2008, Of gallbladder and extrahepatic bile ducts (C23-C24)
-165,87,3440,2009, Of gallbladder and extrahepatic bile ducts (C23-C24)
-166,87,3629,2010, Of gallbladder and extrahepatic bile ducts (C23-C24)
-167,88,35285,2008, Of pancreas (C25)
-168,88,35663,2009, Of pancreas (C25)
-169,88,36926,2010, Of pancreas (C25)
-170,89,1190,2008, Of other and ill-defined digestive organs (C26)
-171,89,1241,2009, Of other and ill-defined digestive organs (C26)
-172,89,1263,2010, Of other and ill-defined digestive organs (C26)
-173,91,516,2008, Of nasal cavity middle ear and accessory sinuses (C30-C31)
-174,91,531,2009, Of nasal cavity middle ear and accessory sinuses (C30-C31)
-175,91,495,2010, Of nasal cavity middle ear and accessory sinuses (C30-C31)
-176,92,3767,2008, Of larynx (C32)
-177,92,3633,2009, Of larynx (C32)
-178,92,3695,2010, Of larynx (C32)
-179,93,158808,2008, Of trachea bronchus and lung (C33-C34)
-180,93,158269,2009, Of trachea bronchus and lung (C33-C34)
-181,93,158425,2010, Of trachea bronchus and lung (C33-C34)
-182,94,452,2008, Of thymus heart mediastinum and pleura (C37-C38)
-183,94,452,2009, Of thymus heart mediastinum and pleura (C37-C38)
-184,94,465,2010, Of thymus heart mediastinum and pleura (C37-C38)
-185,95,43,2008, Of other and ill-defined sites in respiratory system and intrathoracic organs (C39)
-186,95,39,2009, Of other and ill-defined sites in respiratory system and intrathoracic organs (C39)
-187,95,56,2010, Of other and ill-defined sites in respiratory system and intrathoracic organs (C39)
-188,96,1366,2008, Malignant neoplasms of bone and articular cartilage (C40-C41)
-189,96,1388,2009, Malignant neoplasms of bone and articular cartilage (C40-C41)
-190,96,1385,2010, Malignant neoplasms of bone and articular cartilage (C40-C41)
-191,98,8633,2008, Malignant melanoma of skin (C43)
-192,98,9206,2009, Malignant melanoma of skin (C43)
-193,98,9166,2010, Malignant melanoma of skin (C43)
-194,99,2718,2008, Other malignant neoplasms of skin (C44)
-195,99,2934,2009, Other malignant neoplasms of skin (C44)
-196,99,2938,2010, Other malignant neoplasms of skin (C44)
-197,101,2539,2008, Mesothelioma (C45)
-198,101,2608,2009, Mesothelioma (C45)
-199,101,2576,2010, Mesothelioma (C45)
-200,102,48,2008, Kaposi’s sarcoma (C46)
-201,102,42,2009, Kaposi’s sarcoma (C46)
-202,102,36,2010, Kaposi’s sarcoma (C46)
-203,103,4961,2008, Of other mesothelial and soft tissue (C47-C49)
-204,103,5048,2009, Of other mesothelial and soft tissue (C47-C49)
-205,103,5224,2010, Of other mesothelial and soft tissue (C47-C49)
-206,104,41077,2008, Malignant neoplasm of breast (C50)
-207,104,41116,2009, Malignant neoplasm of breast (C50)
-208,104,41477,2010, Malignant neoplasm of breast (C50)
-209,106,1338,2008, Of vulva and vagina (C51-C52)
-210,106,1345,2009, Of vulva and vagina (C51-C52)
-211,106,1365,2010, Of vulva and vagina (C51-C52)
-212,107,4014,2008, Of cervix uteri (C53)
-213,107,3916,2009, Of cervix uteri (C53)
-214,107,3944,2010, Of cervix uteri (C53)
-215,108,7682,2008, Of corpus uteri and uterus part unspecified (C54-C55)
-216,108,7723,2009, Of corpus uteri and uterus part unspecified (C54-C55)
-217,108,8413,2010, Of corpus uteri and uterus part unspecified (C54-C55)
-218,109,14377,2008, Of ovary (C56)
-219,109,14449,2009, Of ovary (C56)
-220,109,14584,2010, Of ovary (C56)
-221,110,409,2008, Of other and unspecified female genital organs (C57)
-222,110,405,2009, Of other and unspecified female genital organs (C57)
-223,110,475,2010, Of other and unspecified female genital organs (C57)
-224,111,22,2008, Of placenta (C58)
-225,111,10,2009, Of placenta (C58)
-226,111,18,2010, Of placenta (C58)
-227,113,28504,2008, Of prostate (C61)
-228,113,28115,2009, Of prostate (C61)
-229,113,28596,2010, Of prostate (C61)
-230,114,360,2008, Of testis (C62)
-231,114,376,2009, Of testis (C62)
-232,114,399,2010, Of testis (C62)
-233,115,291,2008, Of penis and other and unspecified male genital organs (C60C63)
-234,115,280,2009, Of penis and other and unspecified male genital organs (C60C63)
-235,115,317,2010, Of penis and other and unspecified male genital organs (C60C63)
-236,117,12910,2008, Of kidney and renal pelvis (C64-C65)
-237,117,13006,2009, Of kidney and renal pelvis (C64-C65)
-238,117,13228,2010, Of kidney and renal pelvis (C64-C65)
-239,118,14053,2008, Of bladder (C67)
-240,118,14211,2009, Of bladder (C67)
-241,118,14743,2010, Of bladder (C67)
-242,119,751,2008, Of other and unspecified sites within the urinary tract (C66C68)
-243,119,745,2009, Of other and unspecified sites within the urinary tract (C66C68)
-244,119,778,2010, Of other and unspecified sites within the urinary tract (C66C68)
-245,120,263,2008, Malignant neoplasm of eye and adnexa (C69)
-246,120,279,2009, Malignant neoplasm of eye and adnexa (C69)
-247,120,284,2010, Malignant neoplasm of eye and adnexa (C69)
-248,122,13500,2008, Of brain (C71)
-249,122,13968,2009, Of brain (C71)
-250,122,13945,2010, Of brain (C71)
-251,123,238,2008, Of other parts of central nervous system (C70C72)
-252,123,221,2009, Of other parts of central nervous system (C70C72)
-253,123,239,2010, Of other parts of central nervous system (C70C72)
-254,124,2341,2008, Malignant neoplasms of thyroid and other endocrine glands (C73-C75)
-255,124,2409,2009, Malignant neoplasms of thyroid and other endocrine glands (C73-C75)
-256,124,2415,2010, Malignant neoplasms of thyroid and other endocrine glands (C73-C75)
-257,125,39371,2008, Other malignant neoplasms of other and unspecified sites (C76-C80C97)
-258,125,39556,2009, Other malignant neoplasms of other and unspecified sites (C76-C80C97)
-259,125,39559,2010, Other malignant neoplasms of other and unspecified sites (C76-C80C97)
-260,127,1172,2008, Hodgkin=s disease (C81)
-261,127,1254,2009, Hodgkin=s disease (C81)
-262,127,1234,2010, Hodgkin=s disease (C81)
-263,129,20408,2008, Non-Hodgkin=s lymphoma (C82-C85)
-264,129,20421,2009, Non-Hodgkin=s lymphoma (C82-C85)
-265,129,20322,2010, Non-Hodgkin=s lymphoma (C82-C85)
-266,130,59,2008, Of other and unspecified lymphoid hematopoietic and related tissue (C96)
-267,130,69,2009, Of other and unspecified lymphoid hematopoietic and related tissue (C96)
-268,130,68,2010, Of other and unspecified lymphoid hematopoietic and related tissue (C96)
-269,131,317,2008, Malignant immunoproliferative diseases (C88)
-270,131,321,2009, Malignant immunoproliferative diseases (C88)
-271,131,302,2010, Malignant immunoproliferative diseases (C88)
-272,132,10723,2008, Multiple myeloma and malignant plasma cell neoplasms (C90)
-273,132,10786,2009, Multiple myeloma and malignant plasma cell neoplasms (C90)
-274,132,11137,2010, Multiple myeloma and malignant plasma cell neoplasms (C90)
-275,134,6301,2008, Lymphoid leukemia (C91)
-276,134,6494,2009, Lymphoid leukemia (C91)
-277,134,6439,2010, Lymphoid leukemia (C91)
-278,135,10639,2008, Myeloid leukemia (C92)
-279,135,10900,2009, Myeloid leukemia (C92)
-280,135,10933,2010, Myeloid leukemia (C92)
-281,136,123,2008, Monocytic leukemia (C93)
-282,136,134,2009, Monocytic leukemia (C93)
-283,136,131,2010, Monocytic leukemia (C93)
-284,137,5331,2008, Other and unspecified leukemia (C94-C95)
-285,137,5125,2009, Other and unspecified leukemia (C94-C95)
-286,137,5120,2010, Other and unspecified leukemia (C94-C95)
-287,139,3,2008, Carcinoma in situ of breast and genitourinary system (D05-D07)
-288,139,8,2009, Carcinoma in situ of breast and genitourinary system (D05-D07)
-289,139,7,2010, Carcinoma in situ of breast and genitourinary system (D05-D07)
-290,140,23,2008, Carcinoma in situ of other and unspecified sites (D00-D04D09)
-291,140,23,2009, Carcinoma in situ of other and unspecified sites (D00-D04D09)
-292,140,22,2010, Carcinoma in situ of other and unspecified sites (D00-D04D09)
-293,142,40,2008, Of female genital organs (D25-D28)
-294,142,37,2009, Of female genital organs (D25-D28)
-295,142,42,2010, Of female genital organs (D25-D28)
-296,143,894,2008, Of eye brain and other parts of central nervous system (D31-D33)
-297,143,802,2009, Of eye brain and other parts of central nervous system (D31-D33)
-298,143,839,2010, Of eye brain and other parts of central nervous system (D31-D33)
-299,144,554,2008, Of other and unspecified sites (D10-D24D29-D30D34-D36)
-300,144,482,2009, Of other and unspecified sites (D10-D24D29-D30D34-D36)
-301,144,489,2010, Of other and unspecified sites (D10-D24D29-D30D34-D36)
-302,145,12050,2008, Neoplasms of uncertain or unknown behavior of specified sites (D37-D47)
-303,145,12338,2009, Neoplasms of uncertain or unknown behavior of specified sites (D37-D47)
-304,145,12519,2010, Neoplasms of uncertain or unknown behavior of specified sites (D37-D47)
-305,146,926,2008, Neoplasms of uncertain or unknown behavior of unspecified sites (D48)
-306,146,937,2009, Neoplasms of uncertain or unknown behavior of unspecified sites (D48)
-307,146,1027,2010, Neoplasms of uncertain or unknown behavior of unspecified sites (D48)
-308,149,308,2008, Nutritional anemias (D50-D53)
-309,149,294,2009, Nutritional anemias (D50-D53)
-310,149,272,2010, Nutritional anemias (D50-D53)
-311,150,851,2008, Hemolytic anemias (D55-D59)
-312,150,802,2009, Hemolytic anemias (D55-D59)
-313,150,839,2010, Hemolytic anemias (D55-D59)
-314,151,964,2008, Aplastic anemias (D60-D61)
-315,151,914,2009, Aplastic anemias (D60-D61)
-316,151,941,2010, Aplastic anemias (D60-D61)
-317,152,2903,2008, Acute posthemorrhagic and other anemias (D62D64)
-318,152,2687,2009, Acute posthemorrhagic and other anemias (D62D64)
-319,152,2812,2010, Acute posthemorrhagic and other anemias (D62D64)
-320,153,2636,2008, Coagulation defects purpura and other hemorrhagic conditions (D65-D69)
-321,153,2662,2009, Coagulation defects purpura and other hemorrhagic conditions (D65-D69)
-322,153,2666,2010, Coagulation defects purpura and other hemorrhagic conditions (D65-D69)
-323,154,843,2008, Other diseases of blood and blood-forming organs (D70-D76)
-324,154,832,2009, Other diseases of blood and blood-forming organs (D70-D76)
-325,154,822,2010, Other diseases of blood and blood-forming organs (D70-D76)
-326,155,1384,2008, Certain disorders involving the immune mechanism (D80-D89)
-327,155,1475,2009, Certain disorders involving the immune mechanism (D80-D89)
-328,155,1438,2010, Certain disorders involving the immune mechanism (D80-D89)
-329,158,1788,2008, Disorders of thyroid gland (E00-E07)
-330,158,1725,2009, Disorders of thyroid gland (E00-E07)
-331,158,1822,2010, Disorders of thyroid gland (E00-E07)
-332,159,70649,2008, Diabetes mellitus (E10-E14)
-333,159,68776,2009, Diabetes mellitus (E10-E14)
-334,159,69154,2010, Diabetes mellitus (E10-E14)
-335,160,175,2008, Disorders of pituitary gland (E22-E23)
-336,160,171,2009, Disorders of pituitary gland (E22-E23)
-337,160,195,2010, Disorders of pituitary gland (E22-E23)
-338,161,242,2008, Disorders of adrenal glands (E24-E27)
-339,161,306,2009, Disorders of adrenal glands (E24-E27)
-340,161,247,2010, Disorders of adrenal glands (E24-E27)
-341,162,6,2008, Diseases of thymus (E32)
-342,162,7,2009, Diseases of thymus (E32)
-343,162,3,2010, Diseases of thymus (E32)
-344,163,526,2008, Other endocrine diseases (E15-E21E28-E31E34)
-345,163,498,2009, Other endocrine diseases (E15-E21E28-E31E34)
-346,163,531,2010, Other endocrine diseases (E15-E21E28-E31E34)
-347,166,74,2008, Nutritional marasmus (E41)
-348,166,48,2009, Nutritional marasmus (E41)
-349,166,49,2010, Nutritional marasmus (E41)
-350,167,2690,2008, Other and unspecified malnutrition (E40E42-E46)
-351,167,2635,2009, Other and unspecified malnutrition (E40E42-E46)
-352,167,2741,2010, Other and unspecified malnutrition (E40E42-E46)
-353,168,216,2008, Other nutritional deficiences (E50-E64)
-354,168,170,2009, Other nutritional deficiences (E50-E64)
-355,168,158,2010, Other nutritional deficiences (E50-E64)
-356,169,5034,2008, Obesity and other hyperalimentation (E65-E68)
-357,169,5436,2009, Obesity and other hyperalimentation (E65-E68)
-358,169,5550,2010, Obesity and other hyperalimentation (E65-E68)
-359,171,491,2008, Cystic fibrosis (E84)
-360,171,500,2009, Cystic fibrosis (E84)
-361,171,461,2010, Cystic fibrosis (E84)
-362,172,5985,2008, Volume depletion disorders of fluid electrolyte and acid-base balance (E86-E87)
-363,172,5828,2009, Volume depletion disorders of fluid electrolyte and acid-base balance (E86-E87)
-364,172,5716,2010, Volume depletion disorders of fluid electrolyte and acid-base balance (E86-E87)
-365,173,11591,2008, Other metabolic disorders (E70-E83E85E88)
-366,173,12011,2009, Other metabolic disorders (E70-E83E85E88)
-367,173,12389,2010, Other metabolic disorders (E70-E83E85E88)
-368,175,92731,2008, Organic dementia (F01F03)
-369,175,94581,2009, Organic dementia (F01F03)
-370,175,108637,2010, Organic dementia (F01F03)
-371,176,1600,2008, Other and unspecified organic mental disorders (F04-F09)
-372,176,1580,2009, Other and unspecified organic mental disorders (F04-F09)
-373,176,1539,2010, Other and unspecified organic mental disorders (F04-F09)
-374,178,5976,2008, Mental and behavioral disorders due to use of alcohol (F10)
-375,178,6021,2009, Mental and behavioral disorders due to use of alcohol (F10)
-376,178,6498,2010, Mental and behavioral disorders due to use of alcohol (F10)
-377,179,2218,2008, Mental and behavioral disorders due to other psychoactive substance use (F11-F19)
-378,179,2149,2009, Mental and behavioral disorders due to other psychoactive substance use (F11-F19)
-379,179,2080,2010, Mental and behavioral disorders due to other psychoactive substance use (F11-F19)
-380,180,462,2008, Schizophrenia schizotypal and delusional disorders (F20-F29)
-381,180,368,2009, Schizophrenia schizotypal and delusional disorders (F20-F29)
-382,180,462,2010, Schizophrenia schizotypal and delusional disorders (F20-F29)
-383,181,686,2008, Mood (affective) disorders (F30-F39)
-384,181,627,2009, Mood (affective) disorders (F30-F39)
-385,181,704,2010, Mood (affective) disorders (F30-F39)
-386,182,142,2008, Neurotic stress-related and somatoform disorders (F40-F48)
-387,182,127,2009, Neurotic stress-related and somatoform disorders (F40-F48)
-388,182,138,2010, Neurotic stress-related and somatoform disorders (F40-F48)
-389,183,500,2008, Mental retardation (F70-F79)
-390,183,502,2009, Mental retardation (F70-F79)
-391,183,420,2010, Mental retardation (F70-F79)
-392,184,387,2008, Other and unspecified mental and behavioral disorders (F50-F69F80-F99)
-393,184,365,2009, Other and unspecified mental and behavioral disorders (F50-F69F80-F99)
-394,184,415,2010, Other and unspecified mental and behavioral disorders (F50-F69F80-F99)
-395,186,636,2008, Meningitis (G00G03)
-396,186,651,2009, Meningitis (G00G03)
-397,186,610,2010, Meningitis (G00G03)
-398,187,679,2008, Other inflammatory diseases of central nervous system (G04-G09)
-399,187,713,2009, Other inflammatory diseases of central nervous system (G04-G09)
-400,187,721,2010, Other inflammatory diseases of central nervous system (G04-G09)
-401,188,20489,2008, Parkinson=s disease (G20-G21)
-402,188,20569,2009, Parkinson=s disease (G20-G21)
-403,188,22035,2010, Parkinson=s disease (G20-G21)
-404,189,82453,2008, Alzheimer=s disease (G30)
-405,189,79018,2009, Alzheimer=s disease (G30)
-406,189,83510,2010, Alzheimer=s disease (G30)
-407,190,3703,2008, Multiple sclerosis (G35)
-408,190,3688,2009, Multiple sclerosis (G35)
-409,190,3655,2010, Multiple sclerosis (G35)
-410,191,1399,2008, Epilepsy (G40-G41)
-411,191,1554,2009, Epilepsy (G40-G41)
-412,191,1609,2010, Epilepsy (G40-G41)
-413,192,136,2008, Transient cerebral ischemic attacks and related syndromes (G45)
-414,192,137,2009, Transient cerebral ischemic attacks and related syndromes (G45)
-415,192,153,2010, Transient cerebral ischemic attacks and related syndromes (G45)
-416,193,1606,2008, Infantile cerebral palsy (G80)
-417,193,1539,2009, Infantile cerebral palsy (G80)
-418,193,1572,2010, Infantile cerebral palsy (G80)
-419,194,25576,2008, All other diseases of nervous system (G10-G14G23-G25G31G36-G37G43-G44G47-G72G81-G98)
-420,194,26367,2009, All other diseases of nervous system (G10-G14G23-G25G31G36-G37G43-G44G47-G72G81-G98)
-421,194,27299,2010, All other diseases of nervous system (G10-G14G23-G25G31G36-G37G43-G44G47-G72G81-G98)
-422,195,51,2008, VII. Diseases of the eye and adnexa (H00-H57)
-423,195,43,2009, VII. Diseases of the eye and adnexa (H00-H57)
-424,195,53,2010, VII. Diseases of the eye and adnexa (H00-H57)
-425,196,80,2008, VIII. Diseases of the ear and mastoid process (H60-H93)
-426,196,59,2009, VIII. Diseases of the ear and mastoid process (H60-H93)
-427,196,65,2010, VIII. Diseases of the ear and mastoid process (H60-H93)
-428,199,28,2008, Acute rheumatic fever (I00-I02)
-429,199,39,2009, Acute rheumatic fever (I00-I02)
-430,199,29,2010, Acute rheumatic fever (I00-I02)
-431,201,1511,2008, Rheumatic mitral valve diseases (I05)
-432,201,1525,2009, Rheumatic mitral valve diseases (I05)
-433,201,1433,2010, Rheumatic mitral valve diseases (I05)
-434,202,71,2008, Rheumatic aortic valve diseases (I06)
-435,202,94,2009, Rheumatic aortic valve diseases (I06)
-436,202,67,2010, Rheumatic aortic valve diseases (I06)
-437,203,691,2008, Disorders of both mitral and aortic valves (I08.0)
-438,203,721,2009, Disorders of both mitral and aortic valves (I08.0)
-439,203,664,2010, Disorders of both mitral and aortic valves (I08.0)
-440,204,848,2008, Other chronic rheumatic heart diseases (I07I08.1-I08.9I09)
-441,204,860,2009, Other chronic rheumatic heart diseases (I07I08.1-I08.9I09)
-442,204,796,2010, Other chronic rheumatic heart diseases (I07I08.1-I08.9I09)
-443,206,16178,2008, Essential (primary) hypertension (I10)
-444,206,16419,2009, Essential (primary) hypertension (I10)
-445,206,17293,2010, Essential (primary) hypertension (I10)
-446,207,32515,2008, Hypertensive heart disease (I11)
-447,207,33254,2009, Hypertensive heart disease (I11)
-448,207,33797,2010, Hypertensive heart disease (I11)
-449,208,9599,2008, Hypertensive renal disease (I12I15)
-450,208,9344,2009, Hypertensive renal disease (I12I15)
-451,208,9373,2010, Hypertensive renal disease (I12I15)
-452,209,2877,2008, Hypertensive heart and renal disease (I13)
-453,209,2874,2009, Hypertensive heart and renal disease (I13)
-454,209,2811,2010, Hypertensive heart and renal disease (I13)
-455,211,134269,2008, Acute myocardial infarction (I21-I22)
-456,211,125700,2009, Acute myocardial infarction (I21-I22)
-457,211,122281,2010, Acute myocardial infarction (I21-I22)
-458,212,4259,2008, Other acute ischemic heart diseases (I24)
-459,212,4007,2009, Other acute ischemic heart diseases (I24)
-460,212,4180,2010, Other acute ischemic heart diseases (I24)
-461,214,58937,2008, Atherosclerotic cardiovascular disease so described (I25.0)
-462,214,57291,2009, Atherosclerotic cardiovascular disease so described (I25.0)
-463,214,57720,2010, Atherosclerotic cardiovascular disease so described (I25.0)
-464,215,208809,2008, All other forms of chronic ischemic heart disease (I20I25.1-I25.9)
-465,215,200067,2009, All other forms of chronic ischemic heart disease (I20I25.1-I25.9)
-466,215,196116,2010, All other forms of chronic ischemic heart disease (I20I25.1-I25.9)
-467,218,7171,2008, Pulmonary embolism (I26)
-468,218,7049,2009, Pulmonary embolism (I26)
-469,218,7340,2010, Pulmonary embolism (I26)
-470,219,5780,2008, Other pulmonary heart disease and diseases of pulmonary circulation (I27-I28)
-471,219,6168,2009, Other pulmonary heart disease and diseases of pulmonary circulation (I27-I28)
-472,219,6553,2010, Other pulmonary heart disease and diseases of pulmonary circulation (I27-I28)
-473,221,1185,2008, Acute and subacute endocarditis (I33)
-474,221,1170,2009, Acute and subacute endocarditis (I33)
-475,221,1106,2010, Acute and subacute endocarditis (I33)
-476,222,828,2008, Diseases of pericardium and acute myocarditis (I30-I31I40)
-477,222,851,2009, Diseases of pericardium and acute myocarditis (I30-I31I40)
-478,222,776,2010, Diseases of pericardium and acute myocarditis (I30-I31I40)
-479,224,2372,2008, Nonrheumatic mitral valve disorders (I34)
-480,224,2285,2009, Nonrheumatic mitral valve disorders (I34)
-481,224,2279,2010, Nonrheumatic mitral valve disorders (I34)
-482,225,14352,2008, Nonrheumatic aortic valve disorders (I35)
-483,225,14717,2009, Nonrheumatic aortic valve disorders (I35)
-484,225,15285,2010, Nonrheumatic aortic valve disorders (I35)
-485,226,5123,2008, All other diseases of endocardium (I36-I38)
-486,226,5164,2009, All other diseases of endocardium (I36-I38)
-487,226,5226,2010, All other diseases of endocardium (I36-I38)
-488,227,23976,2008, Cardiomyopathy (I42)
-489,227,23869,2009, Cardiomyopathy (I42)
-490,227,23760,2010, Cardiomyopathy (I42)
-491,228,42739,2008, Conduction disorders and cardiac dysrhythmias (I44-I49)
-492,228,42905,2009, Conduction disorders and cardiac dysrhythmias (I44-I49)
-493,228,44335,2010, Conduction disorders and cardiac dysrhythmias (I44-I49)
-494,230,51719,2008, Congestive heart failure (I50.0)
-495,230,51383,2009, Congestive heart failure (I50.0)
-496,230,52288,2010, Congestive heart failure (I50.0)
-497,231,5141,2008, Other and unspecified heart failure (I50.1-I50.9)
-498,231,5052,2009, Other and unspecified heart failure (I50.1-I50.9)
-499,231,5490,2010, Other and unspecified heart failure (I50.1-I50.9)
-500,232,707,2008, Myocarditis unspecified and myocardial degeneration (I51.4-I51.5)
-501,232,680,2009, Myocarditis unspecified and myocardial degeneration (I51.4-I51.5)
-502,232,673,2010, Myocarditis unspecified and myocardial degeneration (I51.4-I51.5)
-503,233,12232,2008, All other and ill-defined forms of heart disease (I50.0-I51.3 I51.6-I51.9)
-504,233,12710,2009, All other and ill-defined forms of heart disease (I50.0-I51.3 I51.6-I51.9)
-505,233,13724,2010, All other and ill-defined forms of heart disease (I50.0-I51.3 I51.6-I51.9)
-506,235,5558,2008, Subarachnoid hemorrhage (I60)
-507,235,5512,2009, Subarachnoid hemorrhage (I60)
-508,235,5398,2010, Subarachnoid hemorrhage (I60)
-509,236,27818,2008, Intracerebral and other intracranial hemorrhage (I61-I62)
-510,236,27634,2009, Intracerebral and other intracranial hemorrhage (I61-I62)
-511,236,27854,2010, Intracerebral and other intracranial hemorrhage (I61-I62)
-512,237,6638,2008, Cerebral infarction (I63)
-513,237,6502,2009, Cerebral infarction (I63)
-514,237,6522,2010, Cerebral infarction (I63)
-515,238,70731,2008, Stroke not specified as hemorrhage or infarction (I64)
-516,238,68230,2009, Stroke not specified as hemorrhage or infarction (I64)
-517,238,68416,2010, Stroke not specified as hemorrhage or infarction (I64)
-518,239,23656,2008, Other cerebrovascular diseases and their sequelae (I67I69)
-519,239,21159,2009, Other cerebrovascular diseases and their sequelae (I67I69)
-520,239,21493,2010, Other cerebrovascular diseases and their sequelae (I67I69)
-521,241,7836,2008, Atherosclerosis (I70)
-522,241,7380,2009, Atherosclerosis (I70)
-523,241,7233,2010, Atherosclerosis (I70)
-524,242,11123,2008, Aortic aneurysm and dissection (I71)
-525,242,10635,2009, Aortic aneurysm and dissection (I71)
-526,242,10464,2010, Aortic aneurysm and dissection (I71)
-527,243,8855,2008, Other diseases of arteries arterioles and capillaries (I70-I78)
-528,243,8666,2009, Other diseases of arteries arterioles and capillaries (I70-I78)
-529,243,8765,2010, Other diseases of arteries arterioles and capillaries (I70-I78)
-530,245,2945,2008, Phlebitis thrombophlebitis venous embolism and thrombosis (I80-I82)
-531,245,3056,2009, Phlebitis thrombophlebitis venous embolism and thrombosis (I80-I82)
-532,245,3135,2010, Phlebitis thrombophlebitis venous embolism and thrombosis (I80-I82)
-533,246,1108,2008, All other and unspecified disorders of circulatory system (I83-I99)
-534,246,1074,2009, All other and unspecified disorders of circulatory system (I83-I99)
-535,246,1125,2010, All other and unspecified disorders of circulatory system (I83-I99)
-536,249,25,2008, Acute pharyngitis and tonsillitis (J02-J03)
-537,249,28,2009, Acute pharyngitis and tonsillitis (J02-J03)
-538,249,22,2010, Acute pharyngitis and tonsillitis (J02-J03)
-539,250,19,2008, Acute laryngitis and tracheitis ((J04)
-540,250,22,2009, Acute laryngitis and tracheitis ((J04)
-541,250,27,2010, Acute laryngitis and tracheitis ((J04)
-542,251,154,2008, Other and unspecified acute upper respiratory infections (J00-J01J05-J06)
-543,251,130,2009, Other and unspecified acute upper respiratory infections (J00-J01J05-J06)
-544,251,107,2010, Other and unspecified acute upper respiratory infections (J00-J01J05-J06)
-545,253,1726,2008, Influenza (J09-J11)
-546,253,2928,2009, Influenza (J09-J11)
-547,253,501,2010, Influenza (J09-J11)
-548,255,231,2008, Viral pneumonia not elsewhere classified (J12)
-549,255,281,2009, Viral pneumonia not elsewhere classified (J12)
-550,255,171,2010, Viral pneumonia not elsewhere classified (J12)
-551,256,3158,2008, Bacterial pneumonia (J13-J15)
-552,256,3139,2009, Bacterial pneumonia (J13-J15)
-553,256,2819,2010, Bacterial pneumonia (J13-J15)
-554,257,51246,2008, Pneumonia due to other or unspecified organisms (J16J18)
-555,257,47431,2009, Pneumonia due to other or unspecified organisms (J16J18)
-556,257,46670,2010, Pneumonia due to other or unspecified organisms (J16J18)
-557,259,236,2008, Acute bronchitis and bronchiolitis(J20-J21)
-558,259,235,2009, Acute bronchitis and bronchiolitis(J20-J21)
-559,259,177,2010, Acute bronchitis and bronchiolitis(J20-J21)
-560,260,49,2008, Other and unspecified acute lower respiratory infection (J22U04)
-561,260,38,2009, Other and unspecified acute lower respiratory infection (J22U04)
-562,260,36,2010, Other and unspecified acute lower respiratory infection (J22U04)
-563,261,460,2008, Other diseases of upper respiratory tract (J30-J39)
-564,261,476,2009, Other diseases of upper respiratory tract (J30-J39)
-565,261,457,2010, Other diseases of upper respiratory tract (J30-J39)
-566,264,410,2008, Bronchitis not specified as acute or chronic (J40)
-567,264,358,2009, Bronchitis not specified as acute or chronic (J40)
-568,264,340,2010, Bronchitis not specified as acute or chronic (J40)
-569,265,322,2008, Chronic bronchitis (J41-J42)
-570,265,281,2009, Chronic bronchitis (J41-J42)
-571,265,281,2010, Chronic bronchitis (J41-J42)
-572,266,12457,2008, Emphysema (J43)
-573,266,10887,2009, Emphysema (J43)
-574,266,10048,2010, Emphysema (J43)
-575,267,123603,2008, Other chronic obstructive pulmonary disease (J44)
-576,267,121534,2009, Other chronic obstructive pulmonary disease (J44)
-577,267,123065,2010, Other chronic obstructive pulmonary disease (J44)
-578,268,3402,2008, Asthma (J45-J46)
-579,268,3391,2009, Asthma (J45-J46)
-580,268,3412,2010, Asthma (J45-J46)
-581,269,989,2008, Bronchiectasis (J47)
-582,269,968,2009, Bronchiectasis (J47)
-583,269,1018,2010, Bronchiectasis (J47)
-584,271,908,2008, Pneumoconioses and chemical effects (J60-J66J68)
-585,271,841,2009, Pneumoconioses and chemical effects (J60-J66J68)
-586,271,845,2010, Pneumoconioses and chemical effects (J60-J66J68)
-587,273,16618,2008, Pneumonitis due to food and vomit (J69.0)
-588,273,15951,2009, Pneumonitis due to food and vomit (J69.0)
-589,273,17019,2010, Pneumonitis due to food and vomit (J69.0)
-590,274,2,2008, Other pneumonitis due to solids and liquids (J69.1-J69.8)
-591,274,4,2009, Other pneumonitis due to solids and liquids (J69.1-J69.8)
-592,274,2,2010, Other pneumonitis due to solids and liquids (J69.1-J69.8)
-593,275,97,2008, Other lung diseases due to external agents (J67J70)
-594,275,88,2009, Other lung diseases due to external agents (J67J70)
-595,275,84,2010, Other lung diseases due to external agents (J67J70)
-596,276,728,2008, Suppurative and necrotic conditions of lower respiratory tract (J85-J86)
-597,276,670,2009, Suppurative and necrotic conditions of lower respiratory tract (J85-J86)
-598,276,685,2010, Suppurative and necrotic conditions of lower respiratory tract (J85-J86)
-599,277,1127,2008, Pleural effusion and plaque (J90 J92)
-600,277,1242,2009, Pleural effusion and plaque (J90 J92)
-601,277,997,2010, Pleural effusion and plaque (J90 J92)
-602,278,27352,2008, All other diseases of respiratory system (J80-J84J93-J98)
-603,278,27912,2009, All other diseases of respiratory system (J80-J84J93-J98)
-604,278,28854,2010, All other diseases of respiratory system (J80-J84J93-J98)
-605,280,209,2008, Diseases of oral cavity salivary glands and jaws (K00-K14)
-606,280,300,2009, Diseases of oral cavity salivary glands and jaws (K00-K14)
-607,280,432,2010, Diseases of oral cavity salivary glands and jaws (K00-K14)
-608,282,1877,2008, Diseases of esophagus (K20-K22)
-609,282,1826,2009, Diseases of esophagus (K20-K22)
-610,282,2051,2010, Diseases of esophagus (K20-K22)
-611,284,952,2008, Gastric ulcer(K25)
-612,284,894,2009, Gastric ulcer(K25)
-613,284,911,2010, Gastric ulcer(K25)
-614,285,1126,2008, Duodenal ulcer(K26)
-615,285,1127,2009, Duodenal ulcer(K26)
-616,285,1136,2010, Duodenal ulcer(K26)
-617,286,983,2008, Peptic ulcer site unspecified (K27)
-618,286,910,2009, Peptic ulcer site unspecified (K27)
-619,286,903,2010, Peptic ulcer site unspecified (K27)
-620,287,22,2008, Gastrojejunal ulcer (K28)
-621,287,34,2009, Gastrojejunal ulcer (K28)
-622,287,33,2010, Gastrojejunal ulcer (K28)
-623,288,291,2008, Gastritis and duodenitis (K29)
-624,288,286,2009, Gastritis and duodenitis (K29)
-625,288,286,2010, Gastritis and duodenitis (K29)
-626,289,596,2008, Dyspepsia and other diseases of stomach and duodenum (K30-K31)
-627,289,612,2009, Dyspepsia and other diseases of stomach and duodenum (K30-K31)
-628,289,591,2010, Dyspepsia and other diseases of stomach and duodenum (K30-K31)
-629,290,419,2008, Diseases of appendix (K35-K38)
-630,290,426,2009, Diseases of appendix (K35-K38)
-631,290,415,2010, Diseases of appendix (K35-K38)
-632,291,1678,2008, Hernia (K40-K46)
-633,291,1804,2009, Hernia (K40-K46)
-634,291,1834,2010, Hernia (K40-K46)
-635,292,960,2008, Crohn=s disease and ulcerative colitis (K50-K51)
-636,292,958,2009, Crohn=s disease and ulcerative colitis (K50-K51)
-637,292,918,2010, Crohn=s disease and ulcerative colitis (K50-K51)
-638,293,14577,2008, Vascular disorders and obstruction of intestine without hernia (K55-K56)
-639,293,14358,2009, Vascular disorders and obstruction of intestine without hernia (K55-K56)
-640,293,14255,2010, Vascular disorders and obstruction of intestine without hernia (K55-K56)
-641,294,3061,2008, Diverticular disease of intestine (K57)
-642,294,2944,2009, Diverticular disease of intestine (K57)
-643,294,2890,2010, Diverticular disease of intestine (K57)
-644,295,6130,2008, Other diseases of intestines and peritoneum (K52K58-K63)
-645,295,3904,2009, Other diseases of intestines and peritoneum (K52K58-K63)
-646,295,3838,2010, Other diseases of intestines and peritoneum (K52K58-K63)
-647,296,1827,2008, Diseases of peritoneum (K65-K66)
-648,296,1816,2009, Diseases of peritoneum (K65-K66)
-649,296,1785,2010, Diseases of peritoneum (K65-K66)
-650,298,14939,2008, Alcoholic liver disease (K70)
-651,298,15224,2009, Alcoholic liver disease (K70)
-652,298,16026,2010, Alcoholic liver disease (K70)
-653,299,92,2008, Chronic hepatitis not elsewhere classified (K73)
-654,299,78,2009, Chronic hepatitis not elsewhere classified (K73)
-655,299,81,2010, Chronic hepatitis not elsewhere classified (K73)
-656,300,15047,2008, Fibrosis and cirrhosis of liver (K74)
-657,300,15325,2009, Fibrosis and cirrhosis of liver (K74)
-658,300,15864,2010, Fibrosis and cirrhosis of liver (K74)
-659,301,10216,2008, Other diseases of liver (K71-K72K75-K76)
-660,301,10683,2009, Other diseases of liver (K71-K72K75-K76)
-661,301,11042,2010, Other diseases of liver (K71-K72K75-K76)
-662,302,3423,2008, Cholelithiasis and other disorders of gallbladder (K80-K82)
-663,302,3304,2009, Cholelithiasis and other disorders of gallbladder (K80-K82)
-664,302,3337,2010, Cholelithiasis and other disorders of gallbladder (K80-K82)
-665,304,3430,2008, Pancreatitis (K85K86.0-K86.1)
-666,304,3457,2009, Pancreatitis (K85K86.0-K86.1)
-667,304,3424,2010, Pancreatitis (K85K86.0-K86.1)
-668,305,1627,2008, Other disorders of biliary tract and pancreas (K83K86.2-K86.9)
-669,305,1688,2009, Other disorders of biliary tract and pancreas (K83K86.2-K86.9)
-670,305,1660,2010, Other disorders of biliary tract and pancreas (K83K86.2-K86.9)
-671,306,7837,2008, All other diseases of digestive system (K90-K92)
-672,306,7614,2009, All other diseases of digestive system (K90-K92)
-673,306,7768,2010, All other diseases of digestive system (K90-K92)
-674,308,1870,2008, Infections of skin and subcutaneous tissue (L00-L08)
-675,308,1974,2009, Infections of skin and subcutaneous tissue (L00-L08)
-676,308,2013,2010, Infections of skin and subcutaneous tissue (L00-L08)
-677,309,2116,2008, Other and unspecified diseases of skin and sub-cutaneous tissue (L10-L98)
-678,309,2047,2009, Other and unspecified diseases of skin and sub-cutaneous tissue (L10-L98)
-679,309,1984,2010, Other and unspecified diseases of skin and sub-cutaneous tissue (L10-L98)
-680,311,2601,2008, Rheumatoid arthritis and related inflammatory polyarthropathies (M05-M08)
-681,311,2308,2009, Rheumatoid arthritis and related inflammatory polyarthropathies (M05-M08)
-682,311,2423,2010, Rheumatoid arthritis and related inflammatory polyarthropathies (M05-M08)
-683,312,1256,2008, Systemic lupus erythematosus (M32)
-684,312,1164,2009, Systemic lupus erythematosus (M32)
-685,312,1197,2010, Systemic lupus erythematosus (M32)
-686,313,4367,2008, Other arthropathies and related disorders (M00M02M10-M31M33-M35)
-687,313,4278,2009, Other arthropathies and related disorders (M00M02M10-M31M33-M35)
-688,313,4269,2010, Other arthropathies and related disorders (M00M02M10-M31M33-M35)
-689,314,1233,2008, Dorsopathies (M40-M54)
-690,314,1224,2009, Dorsopathies (M40-M54)
-691,314,1194,2010, Dorsopathies (M40-M54)
-692,315,1407,2008, Soft tissue disorders (M60-M79)
-693,315,1461,2009, Soft tissue disorders (M60-M79)
-694,315,1468,2010, Soft tissue disorders (M60-M79)
-695,317,1425,2008, Osteoporosis (M80-M81)
-696,317,1284,2009, Osteoporosis (M80-M81)
-697,317,1108,2010, Osteoporosis (M80-M81)
-698,318,1603,2008, Other osteopathies chondropathies and disorders of musculoskeletal system and connective tissue (M83-M99)
-699,318,1628,2009, Other osteopathies chondropathies and disorders of musculoskeletal system and connective tissue (M83-M99)
-700,318,1680,2010, Other osteopathies chondropathies and disorders of musculoskeletal system and connective tissue (M83-M99)
-701,323,45,2008, Acute and rapidly progressive nephritic syndrome (N00-N01)
-702,323,44,2009, Acute and rapidly progressive nephritic syndrome (N00-N01)
-703,323,70,2010, Acute and rapidly progressive nephritic syndrome (N00-N01)
-704,324,115,2008, Nephrotic syndrome (N04)
-705,324,115,2009, Nephrotic syndrome (N04)
-706,324,133,2010, Nephrotic syndrome (N04)
-707,325,4065,2008, Other and unspecified glomerular diseases (N02-N03N05-N07)
-708,325,4845,2009, Other and unspecified glomerular diseases (N02-N03N05-N07)
-709,325,5861,2010, Other and unspecified glomerular diseases (N02-N03N05-N07)
-710,326,1132,2008, Renal tubulo-interstitial diseases (N10-N15)
-711,326,1093,2009, Renal tubulo-interstitial diseases (N10-N15)
-712,326,1064,2010, Renal tubulo-interstitial diseases (N10-N15)
-713,327,43974,2008, Renal failure (N17-N19)
-714,327,43862,2009, Renal failure (N17-N19)
-715,327,44388,2010, Renal failure (N17-N19)
-716,328,332,2008, Urolithiasis (N20-N23)
-717,328,349,2009, Urolithiasis (N20-N23)
-718,328,367,2010, Urolithiasis (N20-N23)
-719,329,78,2008, Other and unspecified disorders of kidney (N25-N27)
-720,329,93,2009, Other and unspecified disorders of kidney (N25-N27)
-721,329,56,2010, Other and unspecified disorders of kidney (N25-N27)
-722,330,10978,2008, Urinary tract infection site not specified (N39.0)
-723,330,10741,2009, Urinary tract infection site not specified (N39.0)
-724,330,10906,2010, Urinary tract infection site not specified (N39.0)
-725,331,1298,2008, Other diseases of urinary system (N28-N36N39.1-N39.9)
-726,331,1371,2009, Other diseases of urinary system (N28-N36N39.1-N39.9)
-727,331,1709,2010, Other diseases of urinary system (N28-N36N39.1-N39.9)
-728,333,502,2008, Hyperplasia of prostate (N40)
-729,333,446,2009, Hyperplasia of prostate (N40)
-730,333,489,2010, Hyperplasia of prostate (N40)
-731,334,237,2008, Other diseases of male genital organs (N41-N50)
-732,334,177,2009, Other diseases of male genital organs (N41-N50)
-733,334,255,2010, Other diseases of male genital organs (N41-N50)
-734,335,72,2008, Disorders of breast (N60-N64)
-735,335,65,2009, Disorders of breast (N60-N64)
-736,335,54,2010, Disorders of breast (N60-N64)
-737,337,137,2008, Inflammatory diseases of female pelvic organs (N70-N76)
-738,337,134,2009, Inflammatory diseases of female pelvic organs (N70-N76)
-739,337,137,2010, Inflammatory diseases of female pelvic organs (N70-N76)
-740,338,220,2008, Noninflammatory disorders of female genital tract (N80-N98)
-741,338,239,2009, Noninflammatory disorders of female genital tract (N80-N98)
-742,338,228,2010, Noninflammatory disorders of female genital tract (N80-N98)
-743,341,19,2008, Ectopic pregnancy (O00)
-744,341,20,2009, Ectopic pregnancy (O00)
-745,341,21,2010, Ectopic pregnancy (O00)
-746,342,4,2008, Spontaneous abortion (O03)
-747,342,3,2009, Spontaneous abortion (O03)
-748,342,4,2010, Spontaneous abortion (O03)
-749,343,1,2008, Medical abortion (O04)
-750,343,5,2010, Medical abortion (O04)
-751,345,10,2008, Other and unspecified pregnancy with abortive outcome (O01-O02O06-O07)
-752,345,10,2009, Other and unspecified pregnancy with abortive outcome (O01-O02O06-O07)
-753,345,7,2010, Other and unspecified pregnancy with abortive outcome (O01-O02O06-O07)
-754,347,62,2008, Eclampsia and pre-eclampsia (O11O13-O16)
-755,347,46,2009, Eclampsia and pre-eclampsia (O11O13-O16)
-756,347,46,2010, Eclampsia and pre-eclampsia (O11O13-O16)
-757,348,35,2008, Hemorrhage of pregnancy and childbirth and placenta previa (O20O44-O46O67072)
-758,348,29,2009, Hemorrhage of pregnancy and childbirth and placenta previa (O20O44-O46O67072)
-759,348,39,2010, Hemorrhage of pregnancy and childbirth and placenta previa (O20O44-O46O67072)
-760,350,46,2008, Obstetric embolism (O88)
-761,350,42,2009, Obstetric embolism (O88)
-762,350,49,2010, Obstetric embolism (O88)
-763,351,70,2008, Other complications predominately related to the puerperium (O85-O87O89-O92)
-764,351,70,2009, Other complications predominately related to the puerperium (O85-O87O89-O92)
-765,351,53,2010, Other complications predominately related to the puerperium (O85-O87O89-O92)
-766,352,219,2008, All other direct obstetric causes (O10O12O21-O43O47-O66O68-O71 O73-O75)
-767,352,236,2009, All other direct obstetric causes (O10O12O21-O43O47-O66O68-O71 O73-O75)
-768,352,228,2010, All other direct obstetric causes (O10O12O21-O43O47-O66O68-O71 O73-O75)
-769,353,35,2008, Obstetric death of unspecified cause (O95)
-770,353,37,2009, Obstetric death of unspecified cause (O95)
-771,353,37,2010, Obstetric death of unspecified cause (O95)
-772,354,135,2008, Other deaths related to pregnancy childbirth and the puerperium (O96-O97)
-773,354,275,2009, Other deaths related to pregnancy childbirth and the puerperium (O96-O97)
-774,354,152,2010, Other deaths related to pregnancy childbirth and the puerperium (O96-O97)
-775,355,162,2008, Indirect obstetric deaths (O98-O99)
-776,355,191,2009, Indirect obstetric deaths (O98-O99)
-777,355,188,2010, Indirect obstetric deaths (O98-O99)
-778,357,3190,2008, Newborn affected by maternal factors and by complications of pregnancy labor and delivery (P00-P04)
-779,357,2996,2009, Newborn affected by maternal factors and by complications of pregnancy labor and delivery (P00-P04)
-780,357,2941,2010, Newborn affected by maternal factors and by complications of pregnancy labor and delivery (P00-P04)
-781,358,4779,2008, Disorders related to short gestation and low birth weight not elsewhere classified (P07)
-782,358,4559,2009, Disorders related to short gestation and low birth weight not elsewhere classified (P07)
-783,358,4176,2010, Disorders related to short gestation and low birth weight not elsewhere classified (P07)
-784,359,29,2008, Birth trauma (P10-P15)
-785,359,21,2009, Birth trauma (P10-P15)
-786,359,24,2010, Birth trauma (P10-P15)
-787,360,411,2008, Intrauterine hypoxia and birth asphyxia (P20-P21)
-788,360,340,2009, Intrauterine hypoxia and birth asphyxia (P20-P21)
-789,360,324,2010, Intrauterine hypoxia and birth asphyxia (P20-P21)
-790,361,635,2008, Respiratory distress of newborn (P22)
-791,361,597,2009, Respiratory distress of newborn (P22)
-792,361,515,2010, Respiratory distress of newborn (P22)
-793,362,1137,2008, Other respiratory conditions originating in the perinatal period (P23-P28)
-794,362,988,2009, Other respiratory conditions originating in the perinatal period (P23-P28)
-795,362,833,2010, Other respiratory conditions originating in the perinatal period (P23-P28)
-796,363,931,2008, Infections specific to the perinatal period (P35-P39)
-797,363,857,2009, Infections specific to the perinatal period (P35-P39)
-798,363,776,2010, Infections specific to the perinatal period (P35-P39)
-799,364,2871,2008, Other and unspecified conditions originating in the perinatal period (P05P08P29P50-P96)
-800,364,2792,2009, Other and unspecified conditions originating in the perinatal period (P05P08P29P50-P96)
-801,364,2567,2010, Other and unspecified conditions originating in the perinatal period (P05P08P29P50-P96)
-802,366,345,2008, Anencephaly and similar malformations (Q00)
-803,366,327,2009, Anencephaly and similar malformations (Q00)
-804,366,297,2010, Anencephaly and similar malformations (Q00)
-805,367,169,2008, Spina bifida (Q05)
-806,367,183,2009, Spina bifida (Q05)
-807,367,180,2010, Spina bifida (Q05)
-808,368,844,2008, All other congenital malformations of nervous system (Q01-Q04Q06-Q07)
-809,368,851,2009, All other congenital malformations of nervous system (Q01-Q04Q06-Q07)
-810,368,788,2010, All other congenital malformations of nervous system (Q01-Q04Q06-Q07)
-811,369,2763,2008, Congenital malformations of heart (Q20-Q24)
-812,369,2619,2009, Congenital malformations of heart (Q20-Q24)
-813,369,2590,2010, Congenital malformations of heart (Q20-Q24)
-814,370,673,2008, Other congenital malformations of circulatory system (Q25-Q28)
-815,370,588,2009, Other congenital malformations of circulatory system (Q25-Q28)
-816,370,620,2010, Other congenital malformations of circulatory system (Q25-Q28)
-817,371,412,2008, Congenital malformations of respiratory system (Q30-Q34)
-818,371,424,2009, Congenital malformations of respiratory system (Q30-Q34)
-819,371,435,2010, Congenital malformations of respiratory system (Q30-Q34)
-820,372,3021,2008, Other congenital malformations and deformations (Q10-Q18Q35-Q89)
-821,372,2962,2009, Other congenital malformations and deformations (Q10-Q18Q35-Q89)
-822,372,2925,2010, Other congenital malformations and deformations (Q10-Q18Q35-Q89)
-823,373,939,2008, Down=s syndrome (Q90)
-824,373,891,2009, Down=s syndrome (Q90)
-825,373,826,2010, Down=s syndrome (Q90)
-826,374,1166,2008, All other chromosomal abnormalities not elsewhere classified (Q91-Q99)
-827,374,1080,2009, All other chromosomal abnormalities not elsewhere classified (Q91-Q99)
-828,374,1035,2010, All other chromosomal abnormalities not elsewhere classified (Q91-Q99)
-829,376,5201,2008, Senility (R54)
-830,376,5508,2009, Senility (R54)
-831,376,5933,2010, Senility (R54)
-832,378,2353,2008, Sudden infant death syndrome (R95)
-833,378,2226,2009, Sudden infant death syndrome (R95)
-834,378,2063,2010, Sudden infant death syndrome (R95)
-835,379,15195,2008, Other ill-defined and unknown causes of mortality (R96-R99)
-836,379,15361,2009, Other ill-defined and unknown causes of mortality (R96-R99)
-837,379,11562,2010, Other ill-defined and unknown causes of mortality (R96-R99)
-838,380,15962,2008, All other symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R53R55-R94)
-839,380,16929,2009, All other symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R53R55-R94)
-840,380,19055,2010, All other symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R53R55-R94)
-841,384,421,2008, Railway accidents (V05V15V80.6V81.2-V81.9)
-842,384,372,2009, Railway accidents (V05V15V80.6V81.2-V81.9)
-843,384,430,2010, Railway accidents (V05V15V80.6V81.2-V81.9)
-844,386,2751,2008, Pedestrian involved in collision with motor vehicle (V02-V04)
-845,386,2659,2009, Pedestrian involved in collision with motor vehicle (V02-V04)
-846,386,2407,2010, Pedestrian involved in collision with motor vehicle (V02-V04)
-847,387,612,2008, Pedalcyclist involved in collision with motor vehicle (V12-V14V19.0V19.2-V19.4-V19.6)
-848,387,556,2009, Pedalcyclist involved in collision with motor vehicle (V12-V14V19.0V19.2-V19.4-V19.6)
-849,387,570,2010, Pedalcyclist involved in collision with motor vehicle (V12-V14V19.0V19.2-V19.4-V19.6)
-850,388,5173,2008, Motorcyclist involved in any accident except collision with railway train (V20-V24V26-V34V36-V39)
-851,388,4340,2009, Motorcyclist involved in any accident except collision with railway train (V20-V24V26-V34V36-V39)
-852,388,4306,2010, Motorcyclist involved in any accident except collision with railway train (V20-V24V26-V34V36-V39)
-853,390,3,2008, Motorcyclist involved in collision with railway train (V25V35)
-854,390,8,2010, Motorcyclist involved in collision with railway train (V25V35)
-855,391,152,2008, Other motor vehicle accident involving collision with railway train (V45V55V65V75V81.0-V81.1V87.6V88.6)
-856,391,127,2009, Other motor vehicle accident involving collision with railway train (V45V55V65V75V81.0-V81.1V87.6V88.6)
-857,391,87,2010, Other motor vehicle accident involving collision with railway train (V45V55V65V75V81.0-V81.1V87.6V88.6)
-858,392,3447,2008, Occupant of motor vehicle involved in collision with other (non- motorized) road vehicle streetcar animal or pedestrian (V40-V41V46-V47V50-V51V56-V57V60-V61V66-V67V70-V71 V76-V77)
-859,392,2949,2009, Occupant of motor vehicle involved in collision with other (non- motorized) road vehicle streetcar animal or pedestrian (V40-V41V46-V47V50-V51V56-V57V60-V61V66-V67V70-V71 V76-V77)
-860,392,2200,2010, Occupant of motor vehicle involved in collision with other (non- motorized) road vehicle streetcar animal or pedestrian (V40-V41V46-V47V50-V51V56-V57V60-V61V66-V67V70-V71 V76-V77)
-861,393,6928,2008, Occupant of car pickup truck or van involved in collision with other motor vehicle (V42-V44V49V52-V54V59)
-862,393,6172,2009, Occupant of car pickup truck or van involved in collision with other motor vehicle (V42-V44V49V52-V54V59)
-863,393,5464,2010, Occupant of car pickup truck or van involved in collision with other motor vehicle (V42-V44V49V52-V54V59)
-864,394,182,2008, Occupant of heavy transport vehicle or bus involved in collision with other motor vehicle (V62-V64V69V72-V74V79)
-865,394,124,2009, Occupant of heavy transport vehicle or bus involved in collision with other motor vehicle (V62-V64V69V72-V74V79)
-866,394,140,2010, Occupant of heavy transport vehicle or bus involved in collision with other motor vehicle (V62-V64V69V72-V74V79)
-867,395,2825,2008, Occupant of motor vehicle involved in non-collision accident (V48V58V68V78)
-868,395,2857,2009, Occupant of motor vehicle involved in non-collision accident (V48V58V68V78)
-869,395,2244,2010, Occupant of motor vehicle involved in non-collision accident (V48V58V68V78)
-870,396,1190,2008, Occupant of special-use motor vehicle involved in any accident (V83-V86)
-871,396,1128,2009, Occupant of special-use motor vehicle involved in any accident (V83-V86)
-872,396,1051,2010, Occupant of special-use motor vehicle involved in any accident (V83-V86)
-873,397,16866,2008, Other and unspecified motor vehicle accidents (V09.0V09.2V80.3-V80.5V82.0-V82.1V87.0-V87.5V87.7-V87.8 V88.0-V88.5V88.7-V88.8V89.0V89.2)
-874,397,15561,2009, Other and unspecified motor vehicle accidents (V09.0V09.2V80.3-V80.5V82.0-V82.1V87.0-V87.5V87.7-V87.8 V88.0-V88.5V88.7-V88.8V89.0V89.2)
-875,397,17113,2010, Other and unspecified motor vehicle accidents (V09.0V09.2V80.3-V80.5V82.0-V82.1V87.0-V87.5V87.7-V87.8 V88.0-V88.5V88.7-V88.8V89.0V89.2)
-876,398,3,2008, Streetcar accidents (V82.2-V82.9)
-877,398,2,2009, Streetcar accidents (V82.2-V82.9)
-878,398,1,2010, Streetcar accidents (V82.2-V82.9)
-879,399,740,2008, Other and unspecified land transport accidents (V01V06V09.1V09.3V09.9V10-V11V16-V18V19.3V19.8-V19.9 V80.0-V80.2V80.7-V80.9V87.9V88.9V89.1V89.3V89.9)
-880,399,668,2009, Other and unspecified land transport accidents (V01V06V09.1V09.3V09.9V10-V11V16-V18V19.3V19.8-V19.9 V80.0-V80.2V80.7-V80.9V87.9V88.9V89.1V89.3V89.9)
-881,399,612,2010, Other and unspecified land transport accidents (V01V06V09.1V09.3V09.9V10-V11V16-V18V19.3V19.8-V19.9 V80.0-V80.2V80.7-V80.9V87.9V88.9V89.1V89.3V89.9)
-882,400,437,2008, Water transport accidents (V90-V94)
-883,400,472,2009, Water transport accidents (V90-V94)
-884,400,406,2010, Water transport accidents (V90-V94)
-885,401,562,2008, Air and space transport accidents (V95-V97)
-886,401,569,2009, Air and space transport accidents (V95-V97)
-887,401,486,2010, Air and space transport accidents (V95-V97)
-888,402,807,2008, Other and unspecified transport accidents and their sequelae (V98-V99Y85)
-889,402,781,2009, Other and unspecified transport accidents and their sequelae (V98-V99Y85)
-890,402,732,2010, Other and unspecified transport accidents and their sequelae (V98-V99Y85)
-891,404,9242,2008, Fall on same level (W00-W09W18)
-892,404,9822,2009, Fall on same level (W00-W09W18)
-893,404,10335,2010, Fall on same level (W00-W09W18)
-894,405,3636,2008, Fall from one level to another (W10-W17)
-895,405,3536,2009, Fall from one level to another (W10-W17)
-896,405,3525,2010, Fall from one level to another (W10-W17)
-897,406,11190,2008, Unspecified fall (W19)
-898,406,11497,2009, Unspecified fall (W19)
-899,406,12220,2010, Unspecified fall (W19)
-900,407,594,2008, Accidental discharge of firearms (W32-W34)
-901,407,555,2009, Accidental discharge of firearms (W32-W34)
-902,407,608,2010, Accidental discharge of firearms (W32-W34)
-903,408,139,2008, Accidental explosion (W39-W40)
-904,408,84,2009, Accidental explosion (W39-W40)
-905,408,154,2010, Accidental explosion (W39-W40)
-906,409,3662,2008, Accidental drowning and submersion (W65-W74)
-907,409,3608,2009, Accidental drowning and submersion (W65-W74)
-908,409,3862,2010, Accidental drowning and submersion (W65-W74)
-909,410,4370,2008, Accidental inhalation and ingestion of food or other objects causing obstruction of respiratory tract (W78-W80)
-910,410,4376,2009, Accidental inhalation and ingestion of food or other objects causing obstruction of respiratory tract (W78-W80)
-911,410,4578,2010, Accidental inhalation and ingestion of food or other objects causing obstruction of respiratory tract (W78-W80)
-912,411,1763,2008, Other accidental and unspecified threats to breathing (W75-W77W81-W84)
-913,411,1570,2009, Other accidental and unspecified threats to breathing (W75-W77W81-W84)
-914,411,1600,2010, Other accidental and unspecified threats to breathing (W75-W77W81-W84)
-915,412,306,2008, Accidental exposure to electrical current (W85-W87)
-916,412,305,2009, Accidental exposure to electrical current (W85-W87)
-917,412,312,2010, Accidental exposure to electrical current (W85-W87)
-918,413,1,2008, Accidental exposure to radiation (W88-W91)
-919,414,2924,2008, Accidental exposure to smoke fire and flames (X00-X09)
-920,414,2777,2009, Accidental exposure to smoke fire and flames (X00-X09)
-921,414,2793,2010, Accidental exposure to smoke fire and flames (X00-X09)
-922,415,80,2008, Accidental contact with heat and hot substances (X10-X19)
-923,415,68,2009, Accidental contact with heat and hot substances (X10-X19)
-924,415,66,2010, Accidental contact with heat and hot substances (X10-X19)
-925,416,29,2008, Lightning (X33)
-926,416,31,2009, Lightning (X33)
-927,416,29,2010, Lightning (X33)
-928,417,40,2008, Earthquake volcanic eruption avalanche landslide and other earth movements (X34-X36)
-929,417,20,2009, Earthquake volcanic eruption avalanche landslide and other earth movements (X34-X36)
-930,417,35,2010, Earthquake volcanic eruption avalanche landslide and other earth movements (X34-X36)
-931,418,143,2008, Cataclysmic storm and flood (X37-X38)
-932,418,46,2009, Cataclysmic storm and flood (X37-X38)
-933,418,88,2010, Cataclysmic storm and flood (X37-X38)
-934,420,28274,2008, Accidental poisoning by and exposure to drugs and other biological substances (X40-X44)
-935,420,28832,2009, Accidental poisoning by and exposure to drugs and other biological substances (X40-X44)
-936,420,30072,2010, Accidental poisoning by and exposure to drugs and other biological substances (X40-X44)
-937,421,2307,2008, Accidental poisoning by and exposure to other and unspecified solid or liquids substances (X45-X46X48-X49)
-938,421,2292,2009, Accidental poisoning by and exposure to other and unspecified solid or liquids substances (X45-X46X48-X49)
-939,421,2394,2010, Accidental poisoning by and exposure to other and unspecified solid or liquids substances (X45-X46X48-X49)
-940,422,677,2008, Accidental poisoning by and exposure to other gases and vapors (X47)
-941,422,734,2009, Accidental poisoning by and exposure to other gases and vapors (X47)
-942,422,675,2010, Accidental poisoning by and exposure to other gases and vapors (X47)
-943,423,10307,2008, All other and unspecified accidents (W20-W31W35-W38W41-W64W92-W99X20-X32X39X50-X59Y86)
-944,423,9302,2009, All other and unspecified accidents (W20-W31W35-W38W41-W64W92-W99X20-X32X39X50-X59Y86)
-945,423,10030,2010, All other and unspecified accidents (W20-W31W35-W38W41-W64W92-W99X20-X32X39X50-X59Y86)
-946,425,5034,2008, Intentional self-poisoning (suicide) by and exposure to drugs and other biological substances (X60-X64)
-947,425,5053,2009, Intentional self-poisoning (suicide) by and exposure to drugs and other biological substances (X60-X64)
-948,425,5306,2010, Intentional self-poisoning (suicide) by and exposure to drugs and other biological substances (X60-X64)
-949,426,277,2008, Intentional self-poisoning (suicide) by and exposure to other and unspecified solid or liquid substances and their vapors (X65-X66X68-X69)
-950,426,265,2009, Intentional self-poisoning (suicide) by and exposure to other and unspecified solid or liquid substances and their vapors (X65-X66X68-X69)
-951,426,279,2010, Intentional self-poisoning (suicide) by and exposure to other and unspecified solid or liquid substances and their vapors (X65-X66X68-X69)
-952,427,1143,2008, Intentional self-poisoning (suicide) by and exposure to other gases and vapors (X67)
-953,427,1093,2009, Intentional self-poisoning (suicide) by and exposure to other gases and vapors (X67)
-954,427,1026,2010, Intentional self-poisoning (suicide) by and exposure to other gases and vapors (X67)
-955,428,8613,2008, Intentional self-harm (suicide) by hanging strangulation and suffocation (X70)
-956,428,9041,2009, Intentional self-harm (suicide) by hanging strangulation and suffocation (X70)
-957,428,9522,2010, Intentional self-harm (suicide) by hanging strangulation and suffocation (X70)
-958,429,18241,2008, Intentional self-harm (suicide) by discharge of firearms (X72-X74)
-959,429,18749,2009, Intentional self-harm (suicide) by discharge of firearms (X72-X74)
-960,429,19408,2010, Intentional self-harm (suicide) by discharge of firearms (X72-X74)
-961,430,723,2008, Intentional self-harm (suicide) by jumping from a high place (X80)
-962,430,697,2009, Intentional self-harm (suicide) by jumping from a high place (X80)
-963,430,788,2010, Intentional self-harm (suicide) by jumping from a high place (X80)
-964,431,2101,2008, Intentional self-harm (suicide) by all other and unspecified means and their sequelae (*U03X71X75-X79X81-X84X87.0)
-965,431,2108,2009, Intentional self-harm (suicide) by all other and unspecified means and their sequelae (*U03X71X75-X79X81-X84X87.0)
-966,431,2112,2010, Intentional self-harm (suicide) by all other and unspecified means and their sequelae (*U03X71X75-X79X81-X84X87.0)
-967,433,101,2008, Assault (homicide) by drugs biological substances and other and unspecified noxious substances (*U01.6-*U01.7X85-X90)
-968,433,87,2009, Assault (homicide) by drugs biological substances and other and unspecified noxious substances (*U01.6-*U01.7X85-X90)
-969,433,79,2010, Assault (homicide) by drugs biological substances and other and unspecified noxious substances (*U01.6-*U01.7X85-X90)
-970,434,566,2008, Assault (homicide) by hanging strangulation and suffocation (X91)
-971,434,546,2009, Assault (homicide) by hanging strangulation and suffocation (X91)
-972,434,547,2010, Assault (homicide) by hanging strangulation and suffocation (X91)
-973,435,12227,2008, Assault (homicide) by discharge of firearms (*U01.4X93-X95)
-974,435,11537,2009, Assault (homicide) by discharge of firearms (*U01.4X93-X95)
-975,435,11113,2010, Assault (homicide) by discharge of firearms (*U01.4X93-X95)
-976,436,2053,2008, Assault (homicide) by sharp object (X99)
-977,436,1883,2009, Assault (homicide) by sharp object (X99)
-978,436,1802,2010, Assault (homicide) by sharp object (X99)
-979,437,96,2008, Assault (homicide) by blunt object (Y00)
-980,437,81,2009, Assault (homicide) by blunt object (Y00)
-981,437,65,2010, Assault (homicide) by blunt object (Y00)
-982,438,75,2008, Assault (homicide) by bodily force (Y04)
-983,438,54,2009, Assault (homicide) by bodily force (Y04)
-984,438,58,2010, Assault (homicide) by bodily force (Y04)
-985,439,2,2008, Sexual assault (homicide) by bodily force (Y05)
-986,440,203,2008, Neglect abandonment and other maltreatment syndromes (Y06-Y07)
-987,440,221,2009, Neglect abandonment and other maltreatment syndromes (Y06-Y07)
-988,440,200,2010, Neglect abandonment and other maltreatment syndromes (Y06-Y07)
-989,441,2602,2008, Assault (homicide) by all other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5*U01.8-*U01.9*U02X92X96-X98 Y01-Y03Y08-Y09Y87.1)
-990,441,2476,2009, Assault (homicide) by all other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5*U01.8-*U01.9*U02X92X96-X98 Y01-Y03Y08-Y09Y87.1)
-991,441,2448,2010, Assault (homicide) by all other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5*U01.8-*U01.9*U02X92X96-X98 Y01-Y03Y08-Y09Y87.1)
-992,443,3187,2008, Poisoning by and exposure to drugs and biological substances undetermined intent (Y10-Y14)
-993,443,3142,2009, Poisoning by and exposure to drugs and biological substances undetermined intent (Y10-Y14)
-994,443,2966,2010, Poisoning by and exposure to drugs and biological substances undetermined intent (Y10-Y14)
-995,444,171,2008, Poisoning by and exposure to other and unspecified solid or liquid substance undetermined intent (Y15-Y16Y18-Y19)
-996,444,141,2009, Poisoning by and exposure to other and unspecified solid or liquid substance undetermined intent (Y15-Y16Y18-Y19)
-997,444,136,2010, Poisoning by and exposure to other and unspecified solid or liquid substance undetermined intent (Y15-Y16Y18-Y19)
-998,445,68,2008, Poisoning by and exposure to other gases and vapors undetermined intent (Y17)
-999,445,72,2009, Poisoning by and exposure to other gases and vapors undetermined intent (Y17)
-1000,445,98,2010, Poisoning by and exposure to other gases and vapors undetermined intent (Y17)
-1001,446,273,2008, Discharge of firearms undetermined intent (Y22-Y24)
-1002,446,232,2009, Discharge of firearms undetermined intent (Y22-Y24)
-1003,446,253,2010, Discharge of firearms undetermined intent (Y22-Y24)
-1004,447,78,2008, Falling jumping or pushed from a high place undetermined intent (Y30)
-1005,447,68,2009, Falling jumping or pushed from a high place undetermined intent (Y30)
-1006,447,51,2010, Falling jumping or pushed from a high place undetermined intent (Y30)
-1007,448,1310,2008, All other and unspecified events of undetermined intent and their sequelae (Y20-Y21Y25-Y29Y31-Y34Y87.2Y89.9)
-1008,448,1391,2009, All other and unspecified events of undetermined intent and their sequelae (Y20-Y21Y25-Y29Y31-Y34Y87.2Y89.9)
-1009,448,1430,2010, All other and unspecified events of undetermined intent and their sequelae (Y20-Y21Y25-Y29Y31-Y34Y87.2Y89.9)
-1010,450,35,2008, Legal intervention (Y35.5)
-1011,450,49,2009, Legal intervention (Y35.5)
-1012,450,41,2010, Legal intervention (Y35.5)
-1013,451,349,2008, Other legal intervention and their sequelae (Y35.0-Y35.4Y35.6-Y35.7Y89.0)
-1014,451,351,2009, Other legal intervention and their sequelae (Y35.0-Y35.4Y35.6-Y35.7Y89.0)
-1015,451,373,2010, Other legal intervention and their sequelae (Y35.0-Y35.4Y35.6-Y35.7Y89.0)
-1016,452,31,2008, Operations of war and their sequelae (Y36Y89.1)
-1017,452,25,2009, Operations of war and their sequelae (Y36Y89.1)
-1018,452,9,2010, Operations of war and their sequelae (Y36Y89.1)
-1019,454,432,2008, Drugs medicaments and biological substances causing adverse effects in therapeutic use and their sequelae (Y40-Y59Y88.0)
-1020,454,407,2009, Drugs medicaments and biological substances causing adverse effects in therapeutic use and their sequelae (Y40-Y59Y88.0)
-1021,454,427,2010, Drugs medicaments and biological substances causing adverse effects in therapeutic use and their sequelae (Y40-Y59Y88.0)
-1022,455,132,2008, Misadventures to patients during medical and surgical care and their sequelae (Y60-Y69Y88.1)
-1023,455,143,2009, Misadventures to patients during medical and surgical care and their sequelae (Y60-Y69Y88.1)
-1024,455,134,2010, Misadventures to patients during medical and surgical care and their sequelae (Y60-Y69Y88.1)
-1025,456,2036,2008, Other complications of medical and surgical care and their sequelae (Y70-Y84Y88.2-Y88.3)
-1026,456,2073,2009, Other complications of medical and surgical care and their sequelae (Y70-Y84Y88.2-Y88.3)
-1027,456,1935,2010, Other complications of medical and surgical care and their sequelae (Y70-Y84Y88.2-Y88.3)
-1028,3,1,2009, Cholera (A00)
-1029,16,1,2009, Plague (A20)
-1030,17,1,2009, Brucellosis (A23)
-1031,45,2,2009, Measles (B05)
-1032,45,2,2010, Measles (B05)
-1033,46,1,2009, Rubella (German measles) (B06)
-1034,46,1,2010, Rubella (German measles) (B06)
-1035,344,1,2009, Other abortion (O05)
+,cause_code,cause,count,poll_year
+0,5, Typhoid fever (A01.0),2,2008
+1,6, Paratyphoid fevers and other salmonella infections (A01.1-A01.4A02),44,2008
+2,6, Paratyphoid fevers and other salmonella infections (A01.1-A01.4A02),26,2009
+3,6, Paratyphoid fevers and other salmonella infections (A01.1-A01.4A02),28,2010
+4,7, Shigellosis (A03),3,2008
+5,7, Shigellosis (A03),4,2009
+6,7, Shigellosis (A03),2,2010
+7,8, Other bacterial food-borne intoxications (A05),7,2008
+8,8, Other bacterial food-borne intoxications (A05),4,2009
+9,9, Amebiasis (A06),3,2008
+10,9, Amebiasis (A06),1,2010
+11,10, Intestinal infections due to other specified organisms (A04A07-A08),7747,2008
+12,10, Intestinal infections due to other specified organisms (A04A07-A08),7498,2009
+13,10, Intestinal infections due to other specified organisms (A04A07-A08),7545,2010
+14,11, Diarrhea and gastroenteritis of infectious origin (A09),134,2008
+15,11, Diarrhea and gastroenteritis of infectious origin (A09),2759,2009
+16,11, Diarrhea and gastroenteritis of infectious origin (A09),2745,2010
+17,13, Respiratory tuberculosis (A16),449,2008
+18,13, Respiratory tuberculosis (A16),411,2009
+19,13, Respiratory tuberculosis (A16),428,2010
+20,14, Other tuberculosis (A17-A19),136,2008
+21,14, Other tuberculosis (A17-A19),126,2009
+22,14, Other tuberculosis (A17-A19),147,2010
+23,18, Tetanus (A33-A35),3,2008
+24,18, Tetanus (A33-A35),6,2009
+25,18, Tetanus (A33-A35),3,2010
+26,20, Whooping cough (A37),20,2008
+27,20, Whooping cough (A37),15,2009
+28,20, Whooping cough (A37),26,2010
+29,21, Scarlet fever and erysipelas (A38A46),3,2008
+30,21, Scarlet fever and erysipelas (A38A46),5,2009
+31,21, Scarlet fever and erysipelas (A38A46),3,2010
+32,22, Meningococcal infection (A39),102,2008
+33,22, Meningococcal infection (A39),100,2009
+34,22, Meningococcal infection (A39),80,2010
+35,23, Septicemia (A40-A41),35980,2008
+36,23, Septicemia (A40-A41),35694,2009
+37,23, Septicemia (A40-A41),34865,2010
+38,24, Other zoonotic and bacterial diseases (A21-A22A24-A32A42-A44 A48-A49),1750,2008
+39,24, Other zoonotic and bacterial diseases (A21-A22A24-A32A42-A44 A48-A49),1774,2009
+40,24, Other zoonotic and bacterial diseases (A21-A22A24-A32A42-A44 A48-A49),1771,2010
+41,27, Cardiovascular syphilis (A52.0),1,2008
+42,27, Cardiovascular syphilis (A52.0),3,2009
+43,27, Cardiovascular syphilis (A52.0),2,2010
+44,28, Neurosyphilis (A52.1-A52.3),18,2008
+45,28, Neurosyphilis (A52.1-A52.3),20,2009
+46,28, Neurosyphilis (A52.1-A52.3),16,2010
+47,29, Other and unspecified syphilis (A50-A51A52.7-A52.9A53),15,2008
+48,29, Other and unspecified syphilis (A50-A51A52.7-A52.9A53),11,2009
+49,29, Other and unspecified syphilis (A50-A51A52.7-A52.9A53),10,2010
+50,30, Gonococcal infection (A54),2,2008
+51,30, Gonococcal infection (A54),1,2009
+52,30, Gonococcal infection (A54),2,2010
+53,31, Other infections with a predominately sexual mode of transmission (A55-A64),3,2008
+54,31, Other infections with a predominately sexual mode of transmission (A55-A64),2,2009
+55,31, Other infections with a predominately sexual mode of transmission (A55-A64),2,2010
+56,33, Lyme disease (A69.2),10,2008
+57,33, Lyme disease (A69.2),12,2009
+58,33, Lyme disease (A69.2),10,2010
+59,35, All other infections caused by spirochetes chlamydia or rickettsia (A65-A68A69.0-A69.1A69.8-A69.9A70-A74A77-A79),11,2008
+60,35, All other infections caused by spirochetes chlamydia or rickettsia (A65-A68A69.0-A69.1A69.8-A69.9A70-A74A77-A79),17,2009
+61,35, All other infections caused by spirochetes chlamydia or rickettsia (A65-A68A69.0-A69.1A69.8-A69.9A70-A74A77-A79),13,2010
+62,38, Rabies (A82),2,2008
+63,38, Rabies (A82),4,2009
+64,38, Rabies (A82),1,2010
+65,39, Arthropod-borne viral encephalitis (A83-A84A85.2),2,2008
+66,39, Arthropod-borne viral encephalitis (A83-A84A85.2),2,2009
+67,39, Arthropod-borne viral encephalitis (A83-A84A85.2),9,2010
+68,41, Other and unspecified arthropod-borne viral and hemorrhagic fevers (A90-A94A96-A99),66,2008
+69,41, Other and unspecified arthropod-borne viral and hemorrhagic fevers (A90-A94A96-A99),39,2009
+70,41, Other and unspecified arthropod-borne viral and hemorrhagic fevers (A90-A94A96-A99),65,2010
+71,42, Herpesviral (herpes simplex) infections (B00),178,2008
+72,42, Herpesviral (herpes simplex) infections (B00),186,2009
+73,42, Herpesviral (herpes simplex) infections (B00),190,2010
+74,43, Zoster (herpes zoster) (B02),147,2008
+75,43, Zoster (herpes zoster) (B02),133,2009
+76,43, Zoster (herpes zoster) (B02),170,2010
+77,47, Viral hepatitis (B15-B19),7656,2008
+78,47, Viral hepatitis (B15-B19),7716,2009
+79,47, Viral hepatitis (B15-B19),7579,2010
+80,49, Human immunodeficiency virus (HIV) disease resulting in infectious and parasitic diseases (B20),3834,2008
+81,49, Human immunodeficiency virus (HIV) disease resulting in infectious and parasitic diseases (B20),3558,2009
+82,49, Human immunodeficiency virus (HIV) disease resulting in infectious and parasitic diseases (B20),3103,2010
+83,50, Human immunodeficiency virus (HIV) disease resulting in malignant neoplasms (B21),848,2008
+84,50, Human immunodeficiency virus (HIV) disease resulting in malignant neoplasms (B21),739,2009
+85,50, Human immunodeficiency virus (HIV) disease resulting in malignant neoplasms (B21),694,2010
+86,51, Human immunodeficiency virus (HIV) disease resulting in other specified diseases (B22),1115,2008
+87,51, Human immunodeficiency virus (HIV) disease resulting in other specified diseases (B22),1061,2009
+88,51, Human immunodeficiency virus (HIV) disease resulting in other specified diseases (B22),944,2010
+89,52, Human immunodeficiency virus (HIV) disease resulting in other conditions (B23),1795,2008
+90,52, Human immunodeficiency virus (HIV) disease resulting in other conditions (B23),1725,2009
+91,52, Human immunodeficiency virus (HIV) disease resulting in other conditions (B23),1588,2010
+92,53, Unspecified human immunodeficiency virus (HIV) disease (B24),2753,2008
+93,53, Unspecified human immunodeficiency virus (HIV) disease (B24),2361,2009
+94,53, Unspecified human immunodeficiency virus (HIV) disease (B24),2077,2010
+95,54, All other and unspecified viral diseases (A81A85.0-A85.1A85.8 A86-A89B01B04B07-B09B25-B34),1076,2008
+96,54, All other and unspecified viral diseases (A81A85.0-A85.1A85.8 A86-A89B01B04B07-B09B25-B34),1012,2009
+97,54, All other and unspecified viral diseases (A81A85.0-A85.1A85.8 A86-A89B01B04B07-B09B25-B34),1058,2010
+98,56, Mycoses (B35-B49),1022,2008
+99,56, Mycoses (B35-B49),1059,2009
+100,56, Mycoses (B35-B49),985,2010
+101,58, Malaria (B50-B54),5,2008
+102,58, Malaria (B50-B54),4,2009
+103,58, Malaria (B50-B54),11,2010
+104,60, Trypanosomiasis (B56-B57),6,2008
+105,60, Trypanosomiasis (B56-B57),3,2009
+106,60, Trypanosomiasis (B56-B57),3,2010
+107,61, Pneumocystosis (B59),129,2008
+108,61, Pneumocystosis (B59),124,2009
+109,61, Pneumocystosis (B59),122,2010
+110,62, Other and unspecified protozoal diseases (B58B60-B64),28,2008
+111,62, Other and unspecified protozoal diseases (B58B60-B64),18,2009
+112,62, Other and unspecified protozoal diseases (B58B60-B64),19,2010
+113,64, Schistosomiasis (bilharziasis) (B65),1,2008
+114,64, Schistosomiasis (bilharziasis) (B65),2,2009
+115,64, Schistosomiasis (bilharziasis) (B65),1,2010
+116,65, Other and unspecified helminthiases (B66-B83),19,2008
+117,65, Other and unspecified helminthiases (B66-B83),25,2009
+118,65, Other and unspecified helminthiases (B66-B83),21,2010
+119,66, Sequelae of tuberculosis (B90),57,2008
+120,66, Sequelae of tuberculosis (B90),45,2009
+121,66, Sequelae of tuberculosis (B90),39,2010
+122,67, Sequelae of poliomyelitis (B91),396,2008
+123,67, Sequelae of poliomyelitis (B91),315,2009
+124,67, Sequelae of poliomyelitis (B91),309,2010
+125,68, All other and unspecified infectious and parasitic diseases and their sequelae (B85-B89B92-B99),1010,2008
+126,68, All other and unspecified infectious and parasitic diseases and their sequelae (B85-B89B92-B99),1075,2009
+127,68, All other and unspecified infectious and parasitic diseases and their sequelae (B85-B89B92-B99),1035,2010
+128,72, Of lip (C00),68,2008
+129,72, Of lip (C00),57,2009
+130,72, Of lip (C00),69,2010
+131,73, Of tongue (C01-C02),1984,2008
+132,73, Of tongue (C01-C02),1975,2009
+133,73, Of tongue (C01-C02),2127,2010
+134,74, Of pharynx (C10-C13C14.0),3270,2008
+135,74, Of pharynx (C10-C13C14.0),3169,2009
+136,74, Of pharynx (C10-C13C14.0),3355,2010
+137,75, Of other and unspecified sites within the lip oral cavity and pharynx (C03-C09C14.2-C14.8),2703,2008
+138,75, Of other and unspecified sites within the lip oral cavity and pharynx (C03-C09C14.2-C14.8),2735,2009
+139,75, Of other and unspecified sites within the lip oral cavity and pharynx (C03-C09C14.2-C14.8),2933,2010
+140,77, Of esophagus (C15),13729,2008
+141,77, Of esophagus (C15),13922,2009
+142,77, Of esophagus (C15),14506,2010
+143,78, Of stomach (C16),11384,2008
+144,78, Of stomach (C16),11208,2009
+145,78, Of stomach (C16),11415,2010
+146,79, Of small intestine (C17),1192,2008
+147,79, Of small intestine (C17),1195,2009
+148,79, Of small intestine (C17),1220,2010
+149,81, Colon (C18),43449,2008
+150,81, Colon (C18),42238,2009
+151,81, Colon (C18),42056,2010
+152,82, Rectosigmoid junction and rectum (C19-C20),9216,2008
+153,82, Rectosigmoid junction and rectum (C19-C20),9388,2009
+154,82, Rectosigmoid junction and rectum (C19-C20),9807,2010
+155,83, Anus and anus canal (C21),718,2008
+156,83, Anus and anus canal (C21),818,2009
+157,83, Anus and anus canal (C21),814,2010
+158,85, Liver (C22.0C22.2-C22.9),14206,2008
+159,85, Liver (C22.0C22.2-C22.9),14993,2009
+160,85, Liver (C22.0C22.2-C22.9),15568,2010
+161,86, Intrahepatic bile duct carcinoma (C22.1),4045,2008
+162,86, Intrahepatic bile duct carcinoma (C22.1),4400,2009
+163,86, Intrahepatic bile duct carcinoma (C22.1),4774,2010
+164,87, Of gallbladder and extrahepatic bile ducts (C23-C24),3351,2008
+165,87, Of gallbladder and extrahepatic bile ducts (C23-C24),3440,2009
+166,87, Of gallbladder and extrahepatic bile ducts (C23-C24),3629,2010
+167,88, Of pancreas (C25),35285,2008
+168,88, Of pancreas (C25),35663,2009
+169,88, Of pancreas (C25),36926,2010
+170,89, Of other and ill-defined digestive organs (C26),1190,2008
+171,89, Of other and ill-defined digestive organs (C26),1241,2009
+172,89, Of other and ill-defined digestive organs (C26),1263,2010
+173,91, Of nasal cavity middle ear and accessory sinuses (C30-C31),516,2008
+174,91, Of nasal cavity middle ear and accessory sinuses (C30-C31),531,2009
+175,91, Of nasal cavity middle ear and accessory sinuses (C30-C31),495,2010
+176,92, Of larynx (C32),3767,2008
+177,92, Of larynx (C32),3633,2009
+178,92, Of larynx (C32),3695,2010
+179,93, Of trachea bronchus and lung (C33-C34),158808,2008
+180,93, Of trachea bronchus and lung (C33-C34),158269,2009
+181,93, Of trachea bronchus and lung (C33-C34),158425,2010
+182,94, Of thymus heart mediastinum and pleura (C37-C38),452,2008
+183,94, Of thymus heart mediastinum and pleura (C37-C38),452,2009
+184,94, Of thymus heart mediastinum and pleura (C37-C38),465,2010
+185,95, Of other and ill-defined sites in respiratory system and intrathoracic organs (C39),43,2008
+186,95, Of other and ill-defined sites in respiratory system and intrathoracic organs (C39),39,2009
+187,95, Of other and ill-defined sites in respiratory system and intrathoracic organs (C39),56,2010
+188,96, Malignant neoplasms of bone and articular cartilage (C40-C41),1366,2008
+189,96, Malignant neoplasms of bone and articular cartilage (C40-C41),1388,2009
+190,96, Malignant neoplasms of bone and articular cartilage (C40-C41),1385,2010
+191,98, Malignant melanoma of skin (C43),8633,2008
+192,98, Malignant melanoma of skin (C43),9206,2009
+193,98, Malignant melanoma of skin (C43),9166,2010
+194,99, Other malignant neoplasms of skin (C44),2718,2008
+195,99, Other malignant neoplasms of skin (C44),2934,2009
+196,99, Other malignant neoplasms of skin (C44),2938,2010
+197,101, Mesothelioma (C45),2539,2008
+198,101, Mesothelioma (C45),2608,2009
+199,101, Mesothelioma (C45),2576,2010
+200,102, Kaposi’s sarcoma (C46),48,2008
+201,102, Kaposi’s sarcoma (C46),42,2009
+202,102, Kaposi’s sarcoma (C46),36,2010
+203,103, Of other mesothelial and soft tissue (C47-C49),4961,2008
+204,103, Of other mesothelial and soft tissue (C47-C49),5048,2009
+205,103, Of other mesothelial and soft tissue (C47-C49),5224,2010
+206,104, Malignant neoplasm of breast (C50),41077,2008
+207,104, Malignant neoplasm of breast (C50),41116,2009
+208,104, Malignant neoplasm of breast (C50),41477,2010
+209,106, Of vulva and vagina (C51-C52),1338,2008
+210,106, Of vulva and vagina (C51-C52),1345,2009
+211,106, Of vulva and vagina (C51-C52),1365,2010
+212,107, Of cervix uteri (C53),4014,2008
+213,107, Of cervix uteri (C53),3916,2009
+214,107, Of cervix uteri (C53),3944,2010
+215,108, Of corpus uteri and uterus part unspecified (C54-C55),7682,2008
+216,108, Of corpus uteri and uterus part unspecified (C54-C55),7723,2009
+217,108, Of corpus uteri and uterus part unspecified (C54-C55),8413,2010
+218,109, Of ovary (C56),14377,2008
+219,109, Of ovary (C56),14449,2009
+220,109, Of ovary (C56),14584,2010
+221,110, Of other and unspecified female genital organs (C57),409,2008
+222,110, Of other and unspecified female genital organs (C57),405,2009
+223,110, Of other and unspecified female genital organs (C57),475,2010
+224,111, Of placenta (C58),22,2008
+225,111, Of placenta (C58),10,2009
+226,111, Of placenta (C58),18,2010
+227,113, Of prostate (C61),28504,2008
+228,113, Of prostate (C61),28115,2009
+229,113, Of prostate (C61),28596,2010
+230,114, Of testis (C62),360,2008
+231,114, Of testis (C62),376,2009
+232,114, Of testis (C62),399,2010
+233,115, Of penis and other and unspecified male genital organs (C60C63),291,2008
+234,115, Of penis and other and unspecified male genital organs (C60C63),280,2009
+235,115, Of penis and other and unspecified male genital organs (C60C63),317,2010
+236,117, Of kidney and renal pelvis (C64-C65),12910,2008
+237,117, Of kidney and renal pelvis (C64-C65),13006,2009
+238,117, Of kidney and renal pelvis (C64-C65),13228,2010
+239,118, Of bladder (C67),14053,2008
+240,118, Of bladder (C67),14211,2009
+241,118, Of bladder (C67),14743,2010
+242,119, Of other and unspecified sites within the urinary tract (C66C68),751,2008
+243,119, Of other and unspecified sites within the urinary tract (C66C68),745,2009
+244,119, Of other and unspecified sites within the urinary tract (C66C68),778,2010
+245,120, Malignant neoplasm of eye and adnexa (C69),263,2008
+246,120, Malignant neoplasm of eye and adnexa (C69),279,2009
+247,120, Malignant neoplasm of eye and adnexa (C69),284,2010
+248,122, Of brain (C71),13500,2008
+249,122, Of brain (C71),13968,2009
+250,122, Of brain (C71),13945,2010
+251,123, Of other parts of central nervous system (C70C72),238,2008
+252,123, Of other parts of central nervous system (C70C72),221,2009
+253,123, Of other parts of central nervous system (C70C72),239,2010
+254,124, Malignant neoplasms of thyroid and other endocrine glands (C73-C75),2341,2008
+255,124, Malignant neoplasms of thyroid and other endocrine glands (C73-C75),2409,2009
+256,124, Malignant neoplasms of thyroid and other endocrine glands (C73-C75),2415,2010
+257,125, Other malignant neoplasms of other and unspecified sites (C76-C80C97),39371,2008
+258,125, Other malignant neoplasms of other and unspecified sites (C76-C80C97),39556,2009
+259,125, Other malignant neoplasms of other and unspecified sites (C76-C80C97),39559,2010
+260,127, Hodgkin=s disease (C81),1172,2008
+261,127, Hodgkin=s disease (C81),1254,2009
+262,127, Hodgkin=s disease (C81),1234,2010
+263,129, Non-Hodgkin=s lymphoma (C82-C85),20408,2008
+264,129, Non-Hodgkin=s lymphoma (C82-C85),20421,2009
+265,129, Non-Hodgkin=s lymphoma (C82-C85),20322,2010
+266,130, Of other and unspecified lymphoid hematopoietic and related tissue (C96),59,2008
+267,130, Of other and unspecified lymphoid hematopoietic and related tissue (C96),69,2009
+268,130, Of other and unspecified lymphoid hematopoietic and related tissue (C96),68,2010
+269,131, Malignant immunoproliferative diseases (C88),317,2008
+270,131, Malignant immunoproliferative diseases (C88),321,2009
+271,131, Malignant immunoproliferative diseases (C88),302,2010
+272,132, Multiple myeloma and malignant plasma cell neoplasms (C90),10723,2008
+273,132, Multiple myeloma and malignant plasma cell neoplasms (C90),10786,2009
+274,132, Multiple myeloma and malignant plasma cell neoplasms (C90),11137,2010
+275,134, Lymphoid leukemia (C91),6301,2008
+276,134, Lymphoid leukemia (C91),6494,2009
+277,134, Lymphoid leukemia (C91),6439,2010
+278,135, Myeloid leukemia (C92),10639,2008
+279,135, Myeloid leukemia (C92),10900,2009
+280,135, Myeloid leukemia (C92),10933,2010
+281,136, Monocytic leukemia (C93),123,2008
+282,136, Monocytic leukemia (C93),134,2009
+283,136, Monocytic leukemia (C93),131,2010
+284,137, Other and unspecified leukemia (C94-C95),5331,2008
+285,137, Other and unspecified leukemia (C94-C95),5125,2009
+286,137, Other and unspecified leukemia (C94-C95),5120,2010
+287,139, Carcinoma in situ of breast and genitourinary system (D05-D07),3,2008
+288,139, Carcinoma in situ of breast and genitourinary system (D05-D07),8,2009
+289,139, Carcinoma in situ of breast and genitourinary system (D05-D07),7,2010
+290,140, Carcinoma in situ of other and unspecified sites (D00-D04D09),23,2008
+291,140, Carcinoma in situ of other and unspecified sites (D00-D04D09),23,2009
+292,140, Carcinoma in situ of other and unspecified sites (D00-D04D09),22,2010
+293,142, Of female genital organs (D25-D28),40,2008
+294,142, Of female genital organs (D25-D28),37,2009
+295,142, Of female genital organs (D25-D28),42,2010
+296,143, Of eye brain and other parts of central nervous system (D31-D33),894,2008
+297,143, Of eye brain and other parts of central nervous system (D31-D33),802,2009
+298,143, Of eye brain and other parts of central nervous system (D31-D33),839,2010
+299,144, Of other and unspecified sites (D10-D24D29-D30D34-D36),554,2008
+300,144, Of other and unspecified sites (D10-D24D29-D30D34-D36),482,2009
+301,144, Of other and unspecified sites (D10-D24D29-D30D34-D36),489,2010
+302,145, Neoplasms of uncertain or unknown behavior of specified sites (D37-D47),12050,2008
+303,145, Neoplasms of uncertain or unknown behavior of specified sites (D37-D47),12338,2009
+304,145, Neoplasms of uncertain or unknown behavior of specified sites (D37-D47),12519,2010
+305,146, Neoplasms of uncertain or unknown behavior of unspecified sites (D48),926,2008
+306,146, Neoplasms of uncertain or unknown behavior of unspecified sites (D48),937,2009
+307,146, Neoplasms of uncertain or unknown behavior of unspecified sites (D48),1027,2010
+308,149, Nutritional anemias (D50-D53),308,2008
+309,149, Nutritional anemias (D50-D53),294,2009
+310,149, Nutritional anemias (D50-D53),272,2010
+311,150, Hemolytic anemias (D55-D59),851,2008
+312,150, Hemolytic anemias (D55-D59),802,2009
+313,150, Hemolytic anemias (D55-D59),839,2010
+314,151, Aplastic anemias (D60-D61),964,2008
+315,151, Aplastic anemias (D60-D61),914,2009
+316,151, Aplastic anemias (D60-D61),941,2010
+317,152, Acute posthemorrhagic and other anemias (D62D64),2903,2008
+318,152, Acute posthemorrhagic and other anemias (D62D64),2687,2009
+319,152, Acute posthemorrhagic and other anemias (D62D64),2812,2010
+320,153, Coagulation defects purpura and other hemorrhagic conditions (D65-D69),2636,2008
+321,153, Coagulation defects purpura and other hemorrhagic conditions (D65-D69),2662,2009
+322,153, Coagulation defects purpura and other hemorrhagic conditions (D65-D69),2666,2010
+323,154, Other diseases of blood and blood-forming organs (D70-D76),843,2008
+324,154, Other diseases of blood and blood-forming organs (D70-D76),832,2009
+325,154, Other diseases of blood and blood-forming organs (D70-D76),822,2010
+326,155, Certain disorders involving the immune mechanism (D80-D89),1384,2008
+327,155, Certain disorders involving the immune mechanism (D80-D89),1475,2009
+328,155, Certain disorders involving the immune mechanism (D80-D89),1438,2010
+329,158, Disorders of thyroid gland (E00-E07),1788,2008
+330,158, Disorders of thyroid gland (E00-E07),1725,2009
+331,158, Disorders of thyroid gland (E00-E07),1822,2010
+332,159, Diabetes mellitus (E10-E14),70649,2008
+333,159, Diabetes mellitus (E10-E14),68776,2009
+334,159, Diabetes mellitus (E10-E14),69154,2010
+335,160, Disorders of pituitary gland (E22-E23),175,2008
+336,160, Disorders of pituitary gland (E22-E23),171,2009
+337,160, Disorders of pituitary gland (E22-E23),195,2010
+338,161, Disorders of adrenal glands (E24-E27),242,2008
+339,161, Disorders of adrenal glands (E24-E27),306,2009
+340,161, Disorders of adrenal glands (E24-E27),247,2010
+341,162, Diseases of thymus (E32),6,2008
+342,162, Diseases of thymus (E32),7,2009
+343,162, Diseases of thymus (E32),3,2010
+344,163, Other endocrine diseases (E15-E21E28-E31E34),526,2008
+345,163, Other endocrine diseases (E15-E21E28-E31E34),498,2009
+346,163, Other endocrine diseases (E15-E21E28-E31E34),531,2010
+347,166, Nutritional marasmus (E41),74,2008
+348,166, Nutritional marasmus (E41),48,2009
+349,166, Nutritional marasmus (E41),49,2010
+350,167, Other and unspecified malnutrition (E40E42-E46),2690,2008
+351,167, Other and unspecified malnutrition (E40E42-E46),2635,2009
+352,167, Other and unspecified malnutrition (E40E42-E46),2741,2010
+353,168, Other nutritional deficiences (E50-E64),216,2008
+354,168, Other nutritional deficiences (E50-E64),170,2009
+355,168, Other nutritional deficiences (E50-E64),158,2010
+356,169, Obesity and other hyperalimentation (E65-E68),5034,2008
+357,169, Obesity and other hyperalimentation (E65-E68),5436,2009
+358,169, Obesity and other hyperalimentation (E65-E68),5550,2010
+359,171, Cystic fibrosis (E84),491,2008
+360,171, Cystic fibrosis (E84),500,2009
+361,171, Cystic fibrosis (E84),461,2010
+362,172, Volume depletion disorders of fluid electrolyte and acid-base balance (E86-E87),5985,2008
+363,172, Volume depletion disorders of fluid electrolyte and acid-base balance (E86-E87),5828,2009
+364,172, Volume depletion disorders of fluid electrolyte and acid-base balance (E86-E87),5716,2010
+365,173, Other metabolic disorders (E70-E83E85E88),11591,2008
+366,173, Other metabolic disorders (E70-E83E85E88),12011,2009
+367,173, Other metabolic disorders (E70-E83E85E88),12389,2010
+368,175, Organic dementia (F01F03),92731,2008
+369,175, Organic dementia (F01F03),94581,2009
+370,175, Organic dementia (F01F03),108637,2010
+371,176, Other and unspecified organic mental disorders (F04-F09),1600,2008
+372,176, Other and unspecified organic mental disorders (F04-F09),1580,2009
+373,176, Other and unspecified organic mental disorders (F04-F09),1539,2010
+374,178, Mental and behavioral disorders due to use of alcohol (F10),5976,2008
+375,178, Mental and behavioral disorders due to use of alcohol (F10),6021,2009
+376,178, Mental and behavioral disorders due to use of alcohol (F10),6498,2010
+377,179, Mental and behavioral disorders due to other psychoactive substance use (F11-F19),2218,2008
+378,179, Mental and behavioral disorders due to other psychoactive substance use (F11-F19),2149,2009
+379,179, Mental and behavioral disorders due to other psychoactive substance use (F11-F19),2080,2010
+380,180, Schizophrenia schizotypal and delusional disorders (F20-F29),462,2008
+381,180, Schizophrenia schizotypal and delusional disorders (F20-F29),368,2009
+382,180, Schizophrenia schizotypal and delusional disorders (F20-F29),462,2010
+383,181, Mood (affective) disorders (F30-F39),686,2008
+384,181, Mood (affective) disorders (F30-F39),627,2009
+385,181, Mood (affective) disorders (F30-F39),704,2010
+386,182, Neurotic stress-related and somatoform disorders (F40-F48),142,2008
+387,182, Neurotic stress-related and somatoform disorders (F40-F48),127,2009
+388,182, Neurotic stress-related and somatoform disorders (F40-F48),138,2010
+389,183, Mental retardation (F70-F79),500,2008
+390,183, Mental retardation (F70-F79),502,2009
+391,183, Mental retardation (F70-F79),420,2010
+392,184, Other and unspecified mental and behavioral disorders (F50-F69F80-F99),387,2008
+393,184, Other and unspecified mental and behavioral disorders (F50-F69F80-F99),365,2009
+394,184, Other and unspecified mental and behavioral disorders (F50-F69F80-F99),415,2010
+395,186, Meningitis (G00G03),636,2008
+396,186, Meningitis (G00G03),651,2009
+397,186, Meningitis (G00G03),610,2010
+398,187, Other inflammatory diseases of central nervous system (G04-G09),679,2008
+399,187, Other inflammatory diseases of central nervous system (G04-G09),713,2009
+400,187, Other inflammatory diseases of central nervous system (G04-G09),721,2010
+401,188, Parkinson=s disease (G20-G21),20489,2008
+402,188, Parkinson=s disease (G20-G21),20569,2009
+403,188, Parkinson=s disease (G20-G21),22035,2010
+404,189, Alzheimer=s disease (G30),82453,2008
+405,189, Alzheimer=s disease (G30),79018,2009
+406,189, Alzheimer=s disease (G30),83510,2010
+407,190, Multiple sclerosis (G35),3703,2008
+408,190, Multiple sclerosis (G35),3688,2009
+409,190, Multiple sclerosis (G35),3655,2010
+410,191, Epilepsy (G40-G41),1399,2008
+411,191, Epilepsy (G40-G41),1554,2009
+412,191, Epilepsy (G40-G41),1609,2010
+413,192, Transient cerebral ischemic attacks and related syndromes (G45),136,2008
+414,192, Transient cerebral ischemic attacks and related syndromes (G45),137,2009
+415,192, Transient cerebral ischemic attacks and related syndromes (G45),153,2010
+416,193, Infantile cerebral palsy (G80),1606,2008
+417,193, Infantile cerebral palsy (G80),1539,2009
+418,193, Infantile cerebral palsy (G80),1572,2010
+419,194, All other diseases of nervous system (G10-G14G23-G25G31G36-G37G43-G44G47-G72G81-G98),25576,2008
+420,194, All other diseases of nervous system (G10-G14G23-G25G31G36-G37G43-G44G47-G72G81-G98),26367,2009
+421,194, All other diseases of nervous system (G10-G14G23-G25G31G36-G37G43-G44G47-G72G81-G98),27299,2010
+422,195, VII. Diseases of the eye and adnexa (H00-H57),51,2008
+423,195, VII. Diseases of the eye and adnexa (H00-H57),43,2009
+424,195, VII. Diseases of the eye and adnexa (H00-H57),53,2010
+425,196, VIII. Diseases of the ear and mastoid process (H60-H93),80,2008
+426,196, VIII. Diseases of the ear and mastoid process (H60-H93),59,2009
+427,196, VIII. Diseases of the ear and mastoid process (H60-H93),65,2010
+428,199, Acute rheumatic fever (I00-I02),28,2008
+429,199, Acute rheumatic fever (I00-I02),39,2009
+430,199, Acute rheumatic fever (I00-I02),29,2010
+431,201, Rheumatic mitral valve diseases (I05),1511,2008
+432,201, Rheumatic mitral valve diseases (I05),1525,2009
+433,201, Rheumatic mitral valve diseases (I05),1433,2010
+434,202, Rheumatic aortic valve diseases (I06),71,2008
+435,202, Rheumatic aortic valve diseases (I06),94,2009
+436,202, Rheumatic aortic valve diseases (I06),67,2010
+437,203, Disorders of both mitral and aortic valves (I08.0),691,2008
+438,203, Disorders of both mitral and aortic valves (I08.0),721,2009
+439,203, Disorders of both mitral and aortic valves (I08.0),664,2010
+440,204, Other chronic rheumatic heart diseases (I07I08.1-I08.9I09),848,2008
+441,204, Other chronic rheumatic heart diseases (I07I08.1-I08.9I09),860,2009
+442,204, Other chronic rheumatic heart diseases (I07I08.1-I08.9I09),796,2010
+443,206, Essential (primary) hypertension (I10),16178,2008
+444,206, Essential (primary) hypertension (I10),16419,2009
+445,206, Essential (primary) hypertension (I10),17293,2010
+446,207, Hypertensive heart disease (I11),32515,2008
+447,207, Hypertensive heart disease (I11),33254,2009
+448,207, Hypertensive heart disease (I11),33797,2010
+449,208, Hypertensive renal disease (I12I15),9599,2008
+450,208, Hypertensive renal disease (I12I15),9344,2009
+451,208, Hypertensive renal disease (I12I15),9373,2010
+452,209, Hypertensive heart and renal disease (I13),2877,2008
+453,209, Hypertensive heart and renal disease (I13),2874,2009
+454,209, Hypertensive heart and renal disease (I13),2811,2010
+455,211, Acute myocardial infarction (I21-I22),134269,2008
+456,211, Acute myocardial infarction (I21-I22),125700,2009
+457,211, Acute myocardial infarction (I21-I22),122281,2010
+458,212, Other acute ischemic heart diseases (I24),4259,2008
+459,212, Other acute ischemic heart diseases (I24),4007,2009
+460,212, Other acute ischemic heart diseases (I24),4180,2010
+461,214, Atherosclerotic cardiovascular disease so described (I25.0),58937,2008
+462,214, Atherosclerotic cardiovascular disease so described (I25.0),57291,2009
+463,214, Atherosclerotic cardiovascular disease so described (I25.0),57720,2010
+464,215, All other forms of chronic ischemic heart disease (I20I25.1-I25.9),208809,2008
+465,215, All other forms of chronic ischemic heart disease (I20I25.1-I25.9),200067,2009
+466,215, All other forms of chronic ischemic heart disease (I20I25.1-I25.9),196116,2010
+467,218, Pulmonary embolism (I26),7171,2008
+468,218, Pulmonary embolism (I26),7049,2009
+469,218, Pulmonary embolism (I26),7340,2010
+470,219, Other pulmonary heart disease and diseases of pulmonary circulation (I27-I28),5780,2008
+471,219, Other pulmonary heart disease and diseases of pulmonary circulation (I27-I28),6168,2009
+472,219, Other pulmonary heart disease and diseases of pulmonary circulation (I27-I28),6553,2010
+473,221, Acute and subacute endocarditis (I33),1185,2008
+474,221, Acute and subacute endocarditis (I33),1170,2009
+475,221, Acute and subacute endocarditis (I33),1106,2010
+476,222, Diseases of pericardium and acute myocarditis (I30-I31I40),828,2008
+477,222, Diseases of pericardium and acute myocarditis (I30-I31I40),851,2009
+478,222, Diseases of pericardium and acute myocarditis (I30-I31I40),776,2010
+479,224, Nonrheumatic mitral valve disorders (I34),2372,2008
+480,224, Nonrheumatic mitral valve disorders (I34),2285,2009
+481,224, Nonrheumatic mitral valve disorders (I34),2279,2010
+482,225, Nonrheumatic aortic valve disorders (I35),14352,2008
+483,225, Nonrheumatic aortic valve disorders (I35),14717,2009
+484,225, Nonrheumatic aortic valve disorders (I35),15285,2010
+485,226, All other diseases of endocardium (I36-I38),5123,2008
+486,226, All other diseases of endocardium (I36-I38),5164,2009
+487,226, All other diseases of endocardium (I36-I38),5226,2010
+488,227, Cardiomyopathy (I42),23976,2008
+489,227, Cardiomyopathy (I42),23869,2009
+490,227, Cardiomyopathy (I42),23760,2010
+491,228, Conduction disorders and cardiac dysrhythmias (I44-I49),42739,2008
+492,228, Conduction disorders and cardiac dysrhythmias (I44-I49),42905,2009
+493,228, Conduction disorders and cardiac dysrhythmias (I44-I49),44335,2010
+494,230, Congestive heart failure (I50.0),51719,2008
+495,230, Congestive heart failure (I50.0),51383,2009
+496,230, Congestive heart failure (I50.0),52288,2010
+497,231, Other and unspecified heart failure (I50.1-I50.9),5141,2008
+498,231, Other and unspecified heart failure (I50.1-I50.9),5052,2009
+499,231, Other and unspecified heart failure (I50.1-I50.9),5490,2010
+500,232, Myocarditis unspecified and myocardial degeneration (I51.4-I51.5),707,2008
+501,232, Myocarditis unspecified and myocardial degeneration (I51.4-I51.5),680,2009
+502,232, Myocarditis unspecified and myocardial degeneration (I51.4-I51.5),673,2010
+503,233, All other and ill-defined forms of heart disease (I50.0-I51.3 I51.6-I51.9),12232,2008
+504,233, All other and ill-defined forms of heart disease (I50.0-I51.3 I51.6-I51.9),12710,2009
+505,233, All other and ill-defined forms of heart disease (I50.0-I51.3 I51.6-I51.9),13724,2010
+506,235, Subarachnoid hemorrhage (I60),5558,2008
+507,235, Subarachnoid hemorrhage (I60),5512,2009
+508,235, Subarachnoid hemorrhage (I60),5398,2010
+509,236, Intracerebral and other intracranial hemorrhage (I61-I62),27818,2008
+510,236, Intracerebral and other intracranial hemorrhage (I61-I62),27634,2009
+511,236, Intracerebral and other intracranial hemorrhage (I61-I62),27854,2010
+512,237, Cerebral infarction (I63),6638,2008
+513,237, Cerebral infarction (I63),6502,2009
+514,237, Cerebral infarction (I63),6522,2010
+515,238, Stroke not specified as hemorrhage or infarction (I64),70731,2008
+516,238, Stroke not specified as hemorrhage or infarction (I64),68230,2009
+517,238, Stroke not specified as hemorrhage or infarction (I64),68416,2010
+518,239, Other cerebrovascular diseases and their sequelae (I67I69),23656,2008
+519,239, Other cerebrovascular diseases and their sequelae (I67I69),21159,2009
+520,239, Other cerebrovascular diseases and their sequelae (I67I69),21493,2010
+521,241, Atherosclerosis (I70),7836,2008
+522,241, Atherosclerosis (I70),7380,2009
+523,241, Atherosclerosis (I70),7233,2010
+524,242, Aortic aneurysm and dissection (I71),11123,2008
+525,242, Aortic aneurysm and dissection (I71),10635,2009
+526,242, Aortic aneurysm and dissection (I71),10464,2010
+527,243, Other diseases of arteries arterioles and capillaries (I70-I78),8855,2008
+528,243, Other diseases of arteries arterioles and capillaries (I70-I78),8666,2009
+529,243, Other diseases of arteries arterioles and capillaries (I70-I78),8765,2010
+530,245, Phlebitis thrombophlebitis venous embolism and thrombosis (I80-I82),2945,2008
+531,245, Phlebitis thrombophlebitis venous embolism and thrombosis (I80-I82),3056,2009
+532,245, Phlebitis thrombophlebitis venous embolism and thrombosis (I80-I82),3135,2010
+533,246, All other and unspecified disorders of circulatory system (I83-I99),1108,2008
+534,246, All other and unspecified disorders of circulatory system (I83-I99),1074,2009
+535,246, All other and unspecified disorders of circulatory system (I83-I99),1125,2010
+536,249, Acute pharyngitis and tonsillitis (J02-J03),25,2008
+537,249, Acute pharyngitis and tonsillitis (J02-J03),28,2009
+538,249, Acute pharyngitis and tonsillitis (J02-J03),22,2010
+539,250, Acute laryngitis and tracheitis ((J04),19,2008
+540,250, Acute laryngitis and tracheitis ((J04),22,2009
+541,250, Acute laryngitis and tracheitis ((J04),27,2010
+542,251, Other and unspecified acute upper respiratory infections (J00-J01J05-J06),154,2008
+543,251, Other and unspecified acute upper respiratory infections (J00-J01J05-J06),130,2009
+544,251, Other and unspecified acute upper respiratory infections (J00-J01J05-J06),107,2010
+545,253, Influenza (J09-J11),1726,2008
+546,253, Influenza (J09-J11),2928,2009
+547,253, Influenza (J09-J11),501,2010
+548,255, Viral pneumonia not elsewhere classified (J12),231,2008
+549,255, Viral pneumonia not elsewhere classified (J12),281,2009
+550,255, Viral pneumonia not elsewhere classified (J12),171,2010
+551,256, Bacterial pneumonia (J13-J15),3158,2008
+552,256, Bacterial pneumonia (J13-J15),3139,2009
+553,256, Bacterial pneumonia (J13-J15),2819,2010
+554,257, Pneumonia due to other or unspecified organisms (J16J18),51246,2008
+555,257, Pneumonia due to other or unspecified organisms (J16J18),47431,2009
+556,257, Pneumonia due to other or unspecified organisms (J16J18),46670,2010
+557,259, Acute bronchitis and bronchiolitis(J20-J21),236,2008
+558,259, Acute bronchitis and bronchiolitis(J20-J21),235,2009
+559,259, Acute bronchitis and bronchiolitis(J20-J21),177,2010
+560,260, Other and unspecified acute lower respiratory infection (J22U04),49,2008
+561,260, Other and unspecified acute lower respiratory infection (J22U04),38,2009
+562,260, Other and unspecified acute lower respiratory infection (J22U04),36,2010
+563,261, Other diseases of upper respiratory tract (J30-J39),460,2008
+564,261, Other diseases of upper respiratory tract (J30-J39),476,2009
+565,261, Other diseases of upper respiratory tract (J30-J39),457,2010
+566,264, Bronchitis not specified as acute or chronic (J40),410,2008
+567,264, Bronchitis not specified as acute or chronic (J40),358,2009
+568,264, Bronchitis not specified as acute or chronic (J40),340,2010
+569,265, Chronic bronchitis (J41-J42),322,2008
+570,265, Chronic bronchitis (J41-J42),281,2009
+571,265, Chronic bronchitis (J41-J42),281,2010
+572,266, Emphysema (J43),12457,2008
+573,266, Emphysema (J43),10887,2009
+574,266, Emphysema (J43),10048,2010
+575,267, Other chronic obstructive pulmonary disease (J44),123603,2008
+576,267, Other chronic obstructive pulmonary disease (J44),121534,2009
+577,267, Other chronic obstructive pulmonary disease (J44),123065,2010
+578,268, Asthma (J45-J46),3402,2008
+579,268, Asthma (J45-J46),3391,2009
+580,268, Asthma (J45-J46),3412,2010
+581,269, Bronchiectasis (J47),989,2008
+582,269, Bronchiectasis (J47),968,2009
+583,269, Bronchiectasis (J47),1018,2010
+584,271, Pneumoconioses and chemical effects (J60-J66J68),908,2008
+585,271, Pneumoconioses and chemical effects (J60-J66J68),841,2009
+586,271, Pneumoconioses and chemical effects (J60-J66J68),845,2010
+587,273, Pneumonitis due to food and vomit (J69.0),16618,2008
+588,273, Pneumonitis due to food and vomit (J69.0),15951,2009
+589,273, Pneumonitis due to food and vomit (J69.0),17019,2010
+590,274, Other pneumonitis due to solids and liquids (J69.1-J69.8),2,2008
+591,274, Other pneumonitis due to solids and liquids (J69.1-J69.8),4,2009
+592,274, Other pneumonitis due to solids and liquids (J69.1-J69.8),2,2010
+593,275, Other lung diseases due to external agents (J67J70),97,2008
+594,275, Other lung diseases due to external agents (J67J70),88,2009
+595,275, Other lung diseases due to external agents (J67J70),84,2010
+596,276, Suppurative and necrotic conditions of lower respiratory tract (J85-J86),728,2008
+597,276, Suppurative and necrotic conditions of lower respiratory tract (J85-J86),670,2009
+598,276, Suppurative and necrotic conditions of lower respiratory tract (J85-J86),685,2010
+599,277, Pleural effusion and plaque (J90 J92),1127,2008
+600,277, Pleural effusion and plaque (J90 J92),1242,2009
+601,277, Pleural effusion and plaque (J90 J92),997,2010
+602,278, All other diseases of respiratory system (J80-J84J93-J98),27352,2008
+603,278, All other diseases of respiratory system (J80-J84J93-J98),27912,2009
+604,278, All other diseases of respiratory system (J80-J84J93-J98),28854,2010
+605,280, Diseases of oral cavity salivary glands and jaws (K00-K14),209,2008
+606,280, Diseases of oral cavity salivary glands and jaws (K00-K14),300,2009
+607,280, Diseases of oral cavity salivary glands and jaws (K00-K14),432,2010
+608,282, Diseases of esophagus (K20-K22),1877,2008
+609,282, Diseases of esophagus (K20-K22),1826,2009
+610,282, Diseases of esophagus (K20-K22),2051,2010
+611,284, Gastric ulcer(K25),952,2008
+612,284, Gastric ulcer(K25),894,2009
+613,284, Gastric ulcer(K25),911,2010
+614,285, Duodenal ulcer(K26),1126,2008
+615,285, Duodenal ulcer(K26),1127,2009
+616,285, Duodenal ulcer(K26),1136,2010
+617,286, Peptic ulcer site unspecified (K27),983,2008
+618,286, Peptic ulcer site unspecified (K27),910,2009
+619,286, Peptic ulcer site unspecified (K27),903,2010
+620,287, Gastrojejunal ulcer (K28),22,2008
+621,287, Gastrojejunal ulcer (K28),34,2009
+622,287, Gastrojejunal ulcer (K28),33,2010
+623,288, Gastritis and duodenitis (K29),291,2008
+624,288, Gastritis and duodenitis (K29),286,2009
+625,288, Gastritis and duodenitis (K29),286,2010
+626,289, Dyspepsia and other diseases of stomach and duodenum (K30-K31),596,2008
+627,289, Dyspepsia and other diseases of stomach and duodenum (K30-K31),612,2009
+628,289, Dyspepsia and other diseases of stomach and duodenum (K30-K31),591,2010
+629,290, Diseases of appendix (K35-K38),419,2008
+630,290, Diseases of appendix (K35-K38),426,2009
+631,290, Diseases of appendix (K35-K38),415,2010
+632,291, Hernia (K40-K46),1678,2008
+633,291, Hernia (K40-K46),1804,2009
+634,291, Hernia (K40-K46),1834,2010
+635,292, Crohn=s disease and ulcerative colitis (K50-K51),960,2008
+636,292, Crohn=s disease and ulcerative colitis (K50-K51),958,2009
+637,292, Crohn=s disease and ulcerative colitis (K50-K51),918,2010
+638,293, Vascular disorders and obstruction of intestine without hernia (K55-K56),14577,2008
+639,293, Vascular disorders and obstruction of intestine without hernia (K55-K56),14358,2009
+640,293, Vascular disorders and obstruction of intestine without hernia (K55-K56),14255,2010
+641,294, Diverticular disease of intestine (K57),3061,2008
+642,294, Diverticular disease of intestine (K57),2944,2009
+643,294, Diverticular disease of intestine (K57),2890,2010
+644,295, Other diseases of intestines and peritoneum (K52K58-K63),6130,2008
+645,295, Other diseases of intestines and peritoneum (K52K58-K63),3904,2009
+646,295, Other diseases of intestines and peritoneum (K52K58-K63),3838,2010
+647,296, Diseases of peritoneum (K65-K66),1827,2008
+648,296, Diseases of peritoneum (K65-K66),1816,2009
+649,296, Diseases of peritoneum (K65-K66),1785,2010
+650,298, Alcoholic liver disease (K70),14939,2008
+651,298, Alcoholic liver disease (K70),15224,2009
+652,298, Alcoholic liver disease (K70),16026,2010
+653,299, Chronic hepatitis not elsewhere classified (K73),92,2008
+654,299, Chronic hepatitis not elsewhere classified (K73),78,2009
+655,299, Chronic hepatitis not elsewhere classified (K73),81,2010
+656,300, Fibrosis and cirrhosis of liver (K74),15047,2008
+657,300, Fibrosis and cirrhosis of liver (K74),15325,2009
+658,300, Fibrosis and cirrhosis of liver (K74),15864,2010
+659,301, Other diseases of liver (K71-K72K75-K76),10216,2008
+660,301, Other diseases of liver (K71-K72K75-K76),10683,2009
+661,301, Other diseases of liver (K71-K72K75-K76),11042,2010
+662,302, Cholelithiasis and other disorders of gallbladder (K80-K82),3423,2008
+663,302, Cholelithiasis and other disorders of gallbladder (K80-K82),3304,2009
+664,302, Cholelithiasis and other disorders of gallbladder (K80-K82),3337,2010
+665,304, Pancreatitis (K85K86.0-K86.1),3430,2008
+666,304, Pancreatitis (K85K86.0-K86.1),3457,2009
+667,304, Pancreatitis (K85K86.0-K86.1),3424,2010
+668,305, Other disorders of biliary tract and pancreas (K83K86.2-K86.9),1627,2008
+669,305, Other disorders of biliary tract and pancreas (K83K86.2-K86.9),1688,2009
+670,305, Other disorders of biliary tract and pancreas (K83K86.2-K86.9),1660,2010
+671,306, All other diseases of digestive system (K90-K92),7837,2008
+672,306, All other diseases of digestive system (K90-K92),7614,2009
+673,306, All other diseases of digestive system (K90-K92),7768,2010
+674,308, Infections of skin and subcutaneous tissue (L00-L08),1870,2008
+675,308, Infections of skin and subcutaneous tissue (L00-L08),1974,2009
+676,308, Infections of skin and subcutaneous tissue (L00-L08),2013,2010
+677,309, Other and unspecified diseases of skin and sub-cutaneous tissue (L10-L98),2116,2008
+678,309, Other and unspecified diseases of skin and sub-cutaneous tissue (L10-L98),2047,2009
+679,309, Other and unspecified diseases of skin and sub-cutaneous tissue (L10-L98),1984,2010
+680,311, Rheumatoid arthritis and related inflammatory polyarthropathies (M05-M08),2601,2008
+681,311, Rheumatoid arthritis and related inflammatory polyarthropathies (M05-M08),2308,2009
+682,311, Rheumatoid arthritis and related inflammatory polyarthropathies (M05-M08),2423,2010
+683,312, Systemic lupus erythematosus (M32),1256,2008
+684,312, Systemic lupus erythematosus (M32),1164,2009
+685,312, Systemic lupus erythematosus (M32),1197,2010
+686,313, Other arthropathies and related disorders (M00M02M10-M31M33-M35),4367,2008
+687,313, Other arthropathies and related disorders (M00M02M10-M31M33-M35),4278,2009
+688,313, Other arthropathies and related disorders (M00M02M10-M31M33-M35),4269,2010
+689,314, Dorsopathies (M40-M54),1233,2008
+690,314, Dorsopathies (M40-M54),1224,2009
+691,314, Dorsopathies (M40-M54),1194,2010
+692,315, Soft tissue disorders (M60-M79),1407,2008
+693,315, Soft tissue disorders (M60-M79),1461,2009
+694,315, Soft tissue disorders (M60-M79),1468,2010
+695,317, Osteoporosis (M80-M81),1425,2008
+696,317, Osteoporosis (M80-M81),1284,2009
+697,317, Osteoporosis (M80-M81),1108,2010
+698,318, Other osteopathies chondropathies and disorders of musculoskeletal system and connective tissue (M83-M99),1603,2008
+699,318, Other osteopathies chondropathies and disorders of musculoskeletal system and connective tissue (M83-M99),1628,2009
+700,318, Other osteopathies chondropathies and disorders of musculoskeletal system and connective tissue (M83-M99),1680,2010
+701,323, Acute and rapidly progressive nephritic syndrome (N00-N01),45,2008
+702,323, Acute and rapidly progressive nephritic syndrome (N00-N01),44,2009
+703,323, Acute and rapidly progressive nephritic syndrome (N00-N01),70,2010
+704,324, Nephrotic syndrome (N04),115,2008
+705,324, Nephrotic syndrome (N04),115,2009
+706,324, Nephrotic syndrome (N04),133,2010
+707,325, Other and unspecified glomerular diseases (N02-N03N05-N07),4065,2008
+708,325, Other and unspecified glomerular diseases (N02-N03N05-N07),4845,2009
+709,325, Other and unspecified glomerular diseases (N02-N03N05-N07),5861,2010
+710,326, Renal tubulo-interstitial diseases (N10-N15),1132,2008
+711,326, Renal tubulo-interstitial diseases (N10-N15),1093,2009
+712,326, Renal tubulo-interstitial diseases (N10-N15),1064,2010
+713,327, Renal failure (N17-N19),43974,2008
+714,327, Renal failure (N17-N19),43862,2009
+715,327, Renal failure (N17-N19),44388,2010
+716,328, Urolithiasis (N20-N23),332,2008
+717,328, Urolithiasis (N20-N23),349,2009
+718,328, Urolithiasis (N20-N23),367,2010
+719,329, Other and unspecified disorders of kidney (N25-N27),78,2008
+720,329, Other and unspecified disorders of kidney (N25-N27),93,2009
+721,329, Other and unspecified disorders of kidney (N25-N27),56,2010
+722,330, Urinary tract infection site not specified (N39.0),10978,2008
+723,330, Urinary tract infection site not specified (N39.0),10741,2009
+724,330, Urinary tract infection site not specified (N39.0),10906,2010
+725,331, Other diseases of urinary system (N28-N36N39.1-N39.9),1298,2008
+726,331, Other diseases of urinary system (N28-N36N39.1-N39.9),1371,2009
+727,331, Other diseases of urinary system (N28-N36N39.1-N39.9),1709,2010
+728,333, Hyperplasia of prostate (N40),502,2008
+729,333, Hyperplasia of prostate (N40),446,2009
+730,333, Hyperplasia of prostate (N40),489,2010
+731,334, Other diseases of male genital organs (N41-N50),237,2008
+732,334, Other diseases of male genital organs (N41-N50),177,2009
+733,334, Other diseases of male genital organs (N41-N50),255,2010
+734,335, Disorders of breast (N60-N64),72,2008
+735,335, Disorders of breast (N60-N64),65,2009
+736,335, Disorders of breast (N60-N64),54,2010
+737,337, Inflammatory diseases of female pelvic organs (N70-N76),137,2008
+738,337, Inflammatory diseases of female pelvic organs (N70-N76),134,2009
+739,337, Inflammatory diseases of female pelvic organs (N70-N76),137,2010
+740,338, Noninflammatory disorders of female genital tract (N80-N98),220,2008
+741,338, Noninflammatory disorders of female genital tract (N80-N98),239,2009
+742,338, Noninflammatory disorders of female genital tract (N80-N98),228,2010
+743,341, Ectopic pregnancy (O00),19,2008
+744,341, Ectopic pregnancy (O00),20,2009
+745,341, Ectopic pregnancy (O00),21,2010
+746,342, Spontaneous abortion (O03),4,2008
+747,342, Spontaneous abortion (O03),3,2009
+748,342, Spontaneous abortion (O03),4,2010
+749,343, Medical abortion (O04),1,2008
+750,343, Medical abortion (O04),5,2010
+751,345, Other and unspecified pregnancy with abortive outcome (O01-O02O06-O07),10,2008
+752,345, Other and unspecified pregnancy with abortive outcome (O01-O02O06-O07),10,2009
+753,345, Other and unspecified pregnancy with abortive outcome (O01-O02O06-O07),7,2010
+754,347, Eclampsia and pre-eclampsia (O11O13-O16),62,2008
+755,347, Eclampsia and pre-eclampsia (O11O13-O16),46,2009
+756,347, Eclampsia and pre-eclampsia (O11O13-O16),46,2010
+757,348, Hemorrhage of pregnancy and childbirth and placenta previa (O20O44-O46O67072),35,2008
+758,348, Hemorrhage of pregnancy and childbirth and placenta previa (O20O44-O46O67072),29,2009
+759,348, Hemorrhage of pregnancy and childbirth and placenta previa (O20O44-O46O67072),39,2010
+760,350, Obstetric embolism (O88),46,2008
+761,350, Obstetric embolism (O88),42,2009
+762,350, Obstetric embolism (O88),49,2010
+763,351, Other complications predominately related to the puerperium (O85-O87O89-O92),70,2008
+764,351, Other complications predominately related to the puerperium (O85-O87O89-O92),70,2009
+765,351, Other complications predominately related to the puerperium (O85-O87O89-O92),53,2010
+766,352, All other direct obstetric causes (O10O12O21-O43O47-O66O68-O71 O73-O75),219,2008
+767,352, All other direct obstetric causes (O10O12O21-O43O47-O66O68-O71 O73-O75),236,2009
+768,352, All other direct obstetric causes (O10O12O21-O43O47-O66O68-O71 O73-O75),228,2010
+769,353, Obstetric death of unspecified cause (O95),35,2008
+770,353, Obstetric death of unspecified cause (O95),37,2009
+771,353, Obstetric death of unspecified cause (O95),37,2010
+772,354, Other deaths related to pregnancy childbirth and the puerperium (O96-O97),135,2008
+773,354, Other deaths related to pregnancy childbirth and the puerperium (O96-O97),275,2009
+774,354, Other deaths related to pregnancy childbirth and the puerperium (O96-O97),152,2010
+775,355, Indirect obstetric deaths (O98-O99),162,2008
+776,355, Indirect obstetric deaths (O98-O99),191,2009
+777,355, Indirect obstetric deaths (O98-O99),188,2010
+778,357, Newborn affected by maternal factors and by complications of pregnancy labor and delivery (P00-P04),3190,2008
+779,357, Newborn affected by maternal factors and by complications of pregnancy labor and delivery (P00-P04),2996,2009
+780,357, Newborn affected by maternal factors and by complications of pregnancy labor and delivery (P00-P04),2941,2010
+781,358, Disorders related to short gestation and low birth weight not elsewhere classified (P07),4779,2008
+782,358, Disorders related to short gestation and low birth weight not elsewhere classified (P07),4559,2009
+783,358, Disorders related to short gestation and low birth weight not elsewhere classified (P07),4176,2010
+784,359, Birth trauma (P10-P15),29,2008
+785,359, Birth trauma (P10-P15),21,2009
+786,359, Birth trauma (P10-P15),24,2010
+787,360, Intrauterine hypoxia and birth asphyxia (P20-P21),411,2008
+788,360, Intrauterine hypoxia and birth asphyxia (P20-P21),340,2009
+789,360, Intrauterine hypoxia and birth asphyxia (P20-P21),324,2010
+790,361, Respiratory distress of newborn (P22),635,2008
+791,361, Respiratory distress of newborn (P22),597,2009
+792,361, Respiratory distress of newborn (P22),515,2010
+793,362, Other respiratory conditions originating in the perinatal period (P23-P28),1137,2008
+794,362, Other respiratory conditions originating in the perinatal period (P23-P28),988,2009
+795,362, Other respiratory conditions originating in the perinatal period (P23-P28),833,2010
+796,363, Infections specific to the perinatal period (P35-P39),931,2008
+797,363, Infections specific to the perinatal period (P35-P39),857,2009
+798,363, Infections specific to the perinatal period (P35-P39),776,2010
+799,364, Other and unspecified conditions originating in the perinatal period (P05P08P29P50-P96),2871,2008
+800,364, Other and unspecified conditions originating in the perinatal period (P05P08P29P50-P96),2792,2009
+801,364, Other and unspecified conditions originating in the perinatal period (P05P08P29P50-P96),2567,2010
+802,366, Anencephaly and similar malformations (Q00),345,2008
+803,366, Anencephaly and similar malformations (Q00),327,2009
+804,366, Anencephaly and similar malformations (Q00),297,2010
+805,367, Spina bifida (Q05),169,2008
+806,367, Spina bifida (Q05),183,2009
+807,367, Spina bifida (Q05),180,2010
+808,368, All other congenital malformations of nervous system (Q01-Q04Q06-Q07),844,2008
+809,368, All other congenital malformations of nervous system (Q01-Q04Q06-Q07),851,2009
+810,368, All other congenital malformations of nervous system (Q01-Q04Q06-Q07),788,2010
+811,369, Congenital malformations of heart (Q20-Q24),2763,2008
+812,369, Congenital malformations of heart (Q20-Q24),2619,2009
+813,369, Congenital malformations of heart (Q20-Q24),2590,2010
+814,370, Other congenital malformations of circulatory system (Q25-Q28),673,2008
+815,370, Other congenital malformations of circulatory system (Q25-Q28),588,2009
+816,370, Other congenital malformations of circulatory system (Q25-Q28),620,2010
+817,371, Congenital malformations of respiratory system (Q30-Q34),412,2008
+818,371, Congenital malformations of respiratory system (Q30-Q34),424,2009
+819,371, Congenital malformations of respiratory system (Q30-Q34),435,2010
+820,372, Other congenital malformations and deformations (Q10-Q18Q35-Q89),3021,2008
+821,372, Other congenital malformations and deformations (Q10-Q18Q35-Q89),2962,2009
+822,372, Other congenital malformations and deformations (Q10-Q18Q35-Q89),2925,2010
+823,373, Down=s syndrome (Q90),939,2008
+824,373, Down=s syndrome (Q90),891,2009
+825,373, Down=s syndrome (Q90),826,2010
+826,374, All other chromosomal abnormalities not elsewhere classified (Q91-Q99),1166,2008
+827,374, All other chromosomal abnormalities not elsewhere classified (Q91-Q99),1080,2009
+828,374, All other chromosomal abnormalities not elsewhere classified (Q91-Q99),1035,2010
+829,376, Senility (R54),5201,2008
+830,376, Senility (R54),5508,2009
+831,376, Senility (R54),5933,2010
+832,378, Sudden infant death syndrome (R95),2353,2008
+833,378, Sudden infant death syndrome (R95),2226,2009
+834,378, Sudden infant death syndrome (R95),2063,2010
+835,379, Other ill-defined and unknown causes of mortality (R96-R99),15195,2008
+836,379, Other ill-defined and unknown causes of mortality (R96-R99),15361,2009
+837,379, Other ill-defined and unknown causes of mortality (R96-R99),11562,2010
+838,380, All other symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R53R55-R94),15962,2008
+839,380, All other symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R53R55-R94),16929,2009
+840,380, All other symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R53R55-R94),19055,2010
+841,384, Railway accidents (V05V15V80.6V81.2-V81.9),421,2008
+842,384, Railway accidents (V05V15V80.6V81.2-V81.9),372,2009
+843,384, Railway accidents (V05V15V80.6V81.2-V81.9),430,2010
+844,386, Pedestrian involved in collision with motor vehicle (V02-V04),2751,2008
+845,386, Pedestrian involved in collision with motor vehicle (V02-V04),2659,2009
+846,386, Pedestrian involved in collision with motor vehicle (V02-V04),2407,2010
+847,387, Pedalcyclist involved in collision with motor vehicle (V12-V14V19.0V19.2-V19.4-V19.6),612,2008
+848,387, Pedalcyclist involved in collision with motor vehicle (V12-V14V19.0V19.2-V19.4-V19.6),556,2009
+849,387, Pedalcyclist involved in collision with motor vehicle (V12-V14V19.0V19.2-V19.4-V19.6),570,2010
+850,388, Motorcyclist involved in any accident except collision with railway train (V20-V24V26-V34V36-V39),5173,2008
+851,388, Motorcyclist involved in any accident except collision with railway train (V20-V24V26-V34V36-V39),4340,2009
+852,388, Motorcyclist involved in any accident except collision with railway train (V20-V24V26-V34V36-V39),4306,2010
+853,390, Motorcyclist involved in collision with railway train (V25V35),3,2008
+854,390, Motorcyclist involved in collision with railway train (V25V35),8,2010
+855,391, Other motor vehicle accident involving collision with railway train (V45V55V65V75V81.0-V81.1V87.6V88.6),152,2008
+856,391, Other motor vehicle accident involving collision with railway train (V45V55V65V75V81.0-V81.1V87.6V88.6),127,2009
+857,391, Other motor vehicle accident involving collision with railway train (V45V55V65V75V81.0-V81.1V87.6V88.6),87,2010
+858,392, Occupant of motor vehicle involved in collision with other (non- motorized) road vehicle streetcar animal or pedestrian (V40-V41V46-V47V50-V51V56-V57V60-V61V66-V67V70-V71 V76-V77),3447,2008
+859,392, Occupant of motor vehicle involved in collision with other (non- motorized) road vehicle streetcar animal or pedestrian (V40-V41V46-V47V50-V51V56-V57V60-V61V66-V67V70-V71 V76-V77),2949,2009
+860,392, Occupant of motor vehicle involved in collision with other (non- motorized) road vehicle streetcar animal or pedestrian (V40-V41V46-V47V50-V51V56-V57V60-V61V66-V67V70-V71 V76-V77),2200,2010
+861,393, Occupant of car pickup truck or van involved in collision with other motor vehicle (V42-V44V49V52-V54V59),6928,2008
+862,393, Occupant of car pickup truck or van involved in collision with other motor vehicle (V42-V44V49V52-V54V59),6172,2009
+863,393, Occupant of car pickup truck or van involved in collision with other motor vehicle (V42-V44V49V52-V54V59),5464,2010
+864,394, Occupant of heavy transport vehicle or bus involved in collision with other motor vehicle (V62-V64V69V72-V74V79),182,2008
+865,394, Occupant of heavy transport vehicle or bus involved in collision with other motor vehicle (V62-V64V69V72-V74V79),124,2009
+866,394, Occupant of heavy transport vehicle or bus involved in collision with other motor vehicle (V62-V64V69V72-V74V79),140,2010
+867,395, Occupant of motor vehicle involved in non-collision accident (V48V58V68V78),2825,2008
+868,395, Occupant of motor vehicle involved in non-collision accident (V48V58V68V78),2857,2009
+869,395, Occupant of motor vehicle involved in non-collision accident (V48V58V68V78),2244,2010
+870,396, Occupant of special-use motor vehicle involved in any accident (V83-V86),1190,2008
+871,396, Occupant of special-use motor vehicle involved in any accident (V83-V86),1128,2009
+872,396, Occupant of special-use motor vehicle involved in any accident (V83-V86),1051,2010
+873,397, Other and unspecified motor vehicle accidents (V09.0V09.2V80.3-V80.5V82.0-V82.1V87.0-V87.5V87.7-V87.8 V88.0-V88.5V88.7-V88.8V89.0V89.2),16866,2008
+874,397, Other and unspecified motor vehicle accidents (V09.0V09.2V80.3-V80.5V82.0-V82.1V87.0-V87.5V87.7-V87.8 V88.0-V88.5V88.7-V88.8V89.0V89.2),15561,2009
+875,397, Other and unspecified motor vehicle accidents (V09.0V09.2V80.3-V80.5V82.0-V82.1V87.0-V87.5V87.7-V87.8 V88.0-V88.5V88.7-V88.8V89.0V89.2),17113,2010
+876,398, Streetcar accidents (V82.2-V82.9),3,2008
+877,398, Streetcar accidents (V82.2-V82.9),2,2009
+878,398, Streetcar accidents (V82.2-V82.9),1,2010
+879,399, Other and unspecified land transport accidents (V01V06V09.1V09.3V09.9V10-V11V16-V18V19.3V19.8-V19.9 V80.0-V80.2V80.7-V80.9V87.9V88.9V89.1V89.3V89.9),740,2008
+880,399, Other and unspecified land transport accidents (V01V06V09.1V09.3V09.9V10-V11V16-V18V19.3V19.8-V19.9 V80.0-V80.2V80.7-V80.9V87.9V88.9V89.1V89.3V89.9),668,2009
+881,399, Other and unspecified land transport accidents (V01V06V09.1V09.3V09.9V10-V11V16-V18V19.3V19.8-V19.9 V80.0-V80.2V80.7-V80.9V87.9V88.9V89.1V89.3V89.9),612,2010
+882,400, Water transport accidents (V90-V94),437,2008
+883,400, Water transport accidents (V90-V94),472,2009
+884,400, Water transport accidents (V90-V94),406,2010
+885,401, Air and space transport accidents (V95-V97),562,2008
+886,401, Air and space transport accidents (V95-V97),569,2009
+887,401, Air and space transport accidents (V95-V97),486,2010
+888,402, Other and unspecified transport accidents and their sequelae (V98-V99Y85),807,2008
+889,402, Other and unspecified transport accidents and their sequelae (V98-V99Y85),781,2009
+890,402, Other and unspecified transport accidents and their sequelae (V98-V99Y85),732,2010
+891,404, Fall on same level (W00-W09W18),9242,2008
+892,404, Fall on same level (W00-W09W18),9822,2009
+893,404, Fall on same level (W00-W09W18),10335,2010
+894,405, Fall from one level to another (W10-W17),3636,2008
+895,405, Fall from one level to another (W10-W17),3536,2009
+896,405, Fall from one level to another (W10-W17),3525,2010
+897,406, Unspecified fall (W19),11190,2008
+898,406, Unspecified fall (W19),11497,2009
+899,406, Unspecified fall (W19),12220,2010
+900,407, Accidental discharge of firearms (W32-W34),594,2008
+901,407, Accidental discharge of firearms (W32-W34),555,2009
+902,407, Accidental discharge of firearms (W32-W34),608,2010
+903,408, Accidental explosion (W39-W40),139,2008
+904,408, Accidental explosion (W39-W40),84,2009
+905,408, Accidental explosion (W39-W40),154,2010
+906,409, Accidental drowning and submersion (W65-W74),3662,2008
+907,409, Accidental drowning and submersion (W65-W74),3608,2009
+908,409, Accidental drowning and submersion (W65-W74),3862,2010
+909,410, Accidental inhalation and ingestion of food or other objects causing obstruction of respiratory tract (W78-W80),4370,2008
+910,410, Accidental inhalation and ingestion of food or other objects causing obstruction of respiratory tract (W78-W80),4376,2009
+911,410, Accidental inhalation and ingestion of food or other objects causing obstruction of respiratory tract (W78-W80),4578,2010
+912,411, Other accidental and unspecified threats to breathing (W75-W77W81-W84),1763,2008
+913,411, Other accidental and unspecified threats to breathing (W75-W77W81-W84),1570,2009
+914,411, Other accidental and unspecified threats to breathing (W75-W77W81-W84),1600,2010
+915,412, Accidental exposure to electrical current (W85-W87),306,2008
+916,412, Accidental exposure to electrical current (W85-W87),305,2009
+917,412, Accidental exposure to electrical current (W85-W87),312,2010
+918,413, Accidental exposure to radiation (W88-W91),1,2008
+919,414, Accidental exposure to smoke fire and flames (X00-X09),2924,2008
+920,414, Accidental exposure to smoke fire and flames (X00-X09),2777,2009
+921,414, Accidental exposure to smoke fire and flames (X00-X09),2793,2010
+922,415, Accidental contact with heat and hot substances (X10-X19),80,2008
+923,415, Accidental contact with heat and hot substances (X10-X19),68,2009
+924,415, Accidental contact with heat and hot substances (X10-X19),66,2010
+925,416, Lightning (X33),29,2008
+926,416, Lightning (X33),31,2009
+927,416, Lightning (X33),29,2010
+928,417, Earthquake volcanic eruption avalanche landslide and other earth movements (X34-X36),40,2008
+929,417, Earthquake volcanic eruption avalanche landslide and other earth movements (X34-X36),20,2009
+930,417, Earthquake volcanic eruption avalanche landslide and other earth movements (X34-X36),35,2010
+931,418, Cataclysmic storm and flood (X37-X38),143,2008
+932,418, Cataclysmic storm and flood (X37-X38),46,2009
+933,418, Cataclysmic storm and flood (X37-X38),88,2010
+934,420, Accidental poisoning by and exposure to drugs and other biological substances (X40-X44),28274,2008
+935,420, Accidental poisoning by and exposure to drugs and other biological substances (X40-X44),28832,2009
+936,420, Accidental poisoning by and exposure to drugs and other biological substances (X40-X44),30072,2010
+937,421, Accidental poisoning by and exposure to other and unspecified solid or liquids substances (X45-X46X48-X49),2307,2008
+938,421, Accidental poisoning by and exposure to other and unspecified solid or liquids substances (X45-X46X48-X49),2292,2009
+939,421, Accidental poisoning by and exposure to other and unspecified solid or liquids substances (X45-X46X48-X49),2394,2010
+940,422, Accidental poisoning by and exposure to other gases and vapors (X47),677,2008
+941,422, Accidental poisoning by and exposure to other gases and vapors (X47),734,2009
+942,422, Accidental poisoning by and exposure to other gases and vapors (X47),675,2010
+943,423, All other and unspecified accidents (W20-W31W35-W38W41-W64W92-W99X20-X32X39X50-X59Y86),10307,2008
+944,423, All other and unspecified accidents (W20-W31W35-W38W41-W64W92-W99X20-X32X39X50-X59Y86),9302,2009
+945,423, All other and unspecified accidents (W20-W31W35-W38W41-W64W92-W99X20-X32X39X50-X59Y86),10030,2010
+946,425, Intentional self-poisoning (suicide) by and exposure to drugs and other biological substances (X60-X64),5034,2008
+947,425, Intentional self-poisoning (suicide) by and exposure to drugs and other biological substances (X60-X64),5053,2009
+948,425, Intentional self-poisoning (suicide) by and exposure to drugs and other biological substances (X60-X64),5306,2010
+949,426, Intentional self-poisoning (suicide) by and exposure to other and unspecified solid or liquid substances and their vapors (X65-X66X68-X69),277,2008
+950,426, Intentional self-poisoning (suicide) by and exposure to other and unspecified solid or liquid substances and their vapors (X65-X66X68-X69),265,2009
+951,426, Intentional self-poisoning (suicide) by and exposure to other and unspecified solid or liquid substances and their vapors (X65-X66X68-X69),279,2010
+952,427, Intentional self-poisoning (suicide) by and exposure to other gases and vapors (X67),1143,2008
+953,427, Intentional self-poisoning (suicide) by and exposure to other gases and vapors (X67),1093,2009
+954,427, Intentional self-poisoning (suicide) by and exposure to other gases and vapors (X67),1026,2010
+955,428, Intentional self-harm (suicide) by hanging strangulation and suffocation (X70),8613,2008
+956,428, Intentional self-harm (suicide) by hanging strangulation and suffocation (X70),9041,2009
+957,428, Intentional self-harm (suicide) by hanging strangulation and suffocation (X70),9522,2010
+958,429, Intentional self-harm (suicide) by discharge of firearms (X72-X74),18241,2008
+959,429, Intentional self-harm (suicide) by discharge of firearms (X72-X74),18749,2009
+960,429, Intentional self-harm (suicide) by discharge of firearms (X72-X74),19408,2010
+961,430, Intentional self-harm (suicide) by jumping from a high place (X80),723,2008
+962,430, Intentional self-harm (suicide) by jumping from a high place (X80),697,2009
+963,430, Intentional self-harm (suicide) by jumping from a high place (X80),788,2010
+964,431, Intentional self-harm (suicide) by all other and unspecified means and their sequelae (*U03X71X75-X79X81-X84X87.0),2101,2008
+965,431, Intentional self-harm (suicide) by all other and unspecified means and their sequelae (*U03X71X75-X79X81-X84X87.0),2108,2009
+966,431, Intentional self-harm (suicide) by all other and unspecified means and their sequelae (*U03X71X75-X79X81-X84X87.0),2112,2010
+967,433, Assault (homicide) by drugs biological substances and other and unspecified noxious substances (*U01.6-*U01.7X85-X90),101,2008
+968,433, Assault (homicide) by drugs biological substances and other and unspecified noxious substances (*U01.6-*U01.7X85-X90),87,2009
+969,433, Assault (homicide) by drugs biological substances and other and unspecified noxious substances (*U01.6-*U01.7X85-X90),79,2010
+970,434, Assault (homicide) by hanging strangulation and suffocation (X91),566,2008
+971,434, Assault (homicide) by hanging strangulation and suffocation (X91),546,2009
+972,434, Assault (homicide) by hanging strangulation and suffocation (X91),547,2010
+973,435, Assault (homicide) by discharge of firearms (*U01.4X93-X95),12227,2008
+974,435, Assault (homicide) by discharge of firearms (*U01.4X93-X95),11537,2009
+975,435, Assault (homicide) by discharge of firearms (*U01.4X93-X95),11113,2010
+976,436, Assault (homicide) by sharp object (X99),2053,2008
+977,436, Assault (homicide) by sharp object (X99),1883,2009
+978,436, Assault (homicide) by sharp object (X99),1802,2010
+979,437, Assault (homicide) by blunt object (Y00),96,2008
+980,437, Assault (homicide) by blunt object (Y00),81,2009
+981,437, Assault (homicide) by blunt object (Y00),65,2010
+982,438, Assault (homicide) by bodily force (Y04),75,2008
+983,438, Assault (homicide) by bodily force (Y04),54,2009
+984,438, Assault (homicide) by bodily force (Y04),58,2010
+985,439, Sexual assault (homicide) by bodily force (Y05),2,2008
+986,440, Neglect abandonment and other maltreatment syndromes (Y06-Y07),203,2008
+987,440, Neglect abandonment and other maltreatment syndromes (Y06-Y07),221,2009
+988,440, Neglect abandonment and other maltreatment syndromes (Y06-Y07),200,2010
+989,441, Assault (homicide) by all other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5*U01.8-*U01.9*U02X92X96-X98 Y01-Y03Y08-Y09Y87.1),2602,2008
+990,441, Assault (homicide) by all other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5*U01.8-*U01.9*U02X92X96-X98 Y01-Y03Y08-Y09Y87.1),2476,2009
+991,441, Assault (homicide) by all other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5*U01.8-*U01.9*U02X92X96-X98 Y01-Y03Y08-Y09Y87.1),2448,2010
+992,443, Poisoning by and exposure to drugs and biological substances undetermined intent (Y10-Y14),3187,2008
+993,443, Poisoning by and exposure to drugs and biological substances undetermined intent (Y10-Y14),3142,2009
+994,443, Poisoning by and exposure to drugs and biological substances undetermined intent (Y10-Y14),2966,2010
+995,444, Poisoning by and exposure to other and unspecified solid or liquid substance undetermined intent (Y15-Y16Y18-Y19),171,2008
+996,444, Poisoning by and exposure to other and unspecified solid or liquid substance undetermined intent (Y15-Y16Y18-Y19),141,2009
+997,444, Poisoning by and exposure to other and unspecified solid or liquid substance undetermined intent (Y15-Y16Y18-Y19),136,2010
+998,445, Poisoning by and exposure to other gases and vapors undetermined intent (Y17),68,2008
+999,445, Poisoning by and exposure to other gases and vapors undetermined intent (Y17),72,2009
+1000,445, Poisoning by and exposure to other gases and vapors undetermined intent (Y17),98,2010
+1001,446, Discharge of firearms undetermined intent (Y22-Y24),273,2008
+1002,446, Discharge of firearms undetermined intent (Y22-Y24),232,2009
+1003,446, Discharge of firearms undetermined intent (Y22-Y24),253,2010
+1004,447, Falling jumping or pushed from a high place undetermined intent (Y30),78,2008
+1005,447, Falling jumping or pushed from a high place undetermined intent (Y30),68,2009
+1006,447, Falling jumping or pushed from a high place undetermined intent (Y30),51,2010
+1007,448, All other and unspecified events of undetermined intent and their sequelae (Y20-Y21Y25-Y29Y31-Y34Y87.2Y89.9),1310,2008
+1008,448, All other and unspecified events of undetermined intent and their sequelae (Y20-Y21Y25-Y29Y31-Y34Y87.2Y89.9),1391,2009
+1009,448, All other and unspecified events of undetermined intent and their sequelae (Y20-Y21Y25-Y29Y31-Y34Y87.2Y89.9),1430,2010
+1010,450, Legal intervention (Y35.5),35,2008
+1011,450, Legal intervention (Y35.5),49,2009
+1012,450, Legal intervention (Y35.5),41,2010
+1013,451, Other legal intervention and their sequelae (Y35.0-Y35.4Y35.6-Y35.7Y89.0),349,2008
+1014,451, Other legal intervention and their sequelae (Y35.0-Y35.4Y35.6-Y35.7Y89.0),351,2009
+1015,451, Other legal intervention and their sequelae (Y35.0-Y35.4Y35.6-Y35.7Y89.0),373,2010
+1016,452, Operations of war and their sequelae (Y36Y89.1),31,2008
+1017,452, Operations of war and their sequelae (Y36Y89.1),25,2009
+1018,452, Operations of war and their sequelae (Y36Y89.1),9,2010
+1019,454, Drugs medicaments and biological substances causing adverse effects in therapeutic use and their sequelae (Y40-Y59Y88.0),432,2008
+1020,454, Drugs medicaments and biological substances causing adverse effects in therapeutic use and their sequelae (Y40-Y59Y88.0),407,2009
+1021,454, Drugs medicaments and biological substances causing adverse effects in therapeutic use and their sequelae (Y40-Y59Y88.0),427,2010
+1022,455, Misadventures to patients during medical and surgical care and their sequelae (Y60-Y69Y88.1),132,2008
+1023,455, Misadventures to patients during medical and surgical care and their sequelae (Y60-Y69Y88.1),143,2009
+1024,455, Misadventures to patients during medical and surgical care and their sequelae (Y60-Y69Y88.1),134,2010
+1025,456, Other complications of medical and surgical care and their sequelae (Y70-Y84Y88.2-Y88.3),2036,2008
+1026,456, Other complications of medical and surgical care and their sequelae (Y70-Y84Y88.2-Y88.3),2073,2009
+1027,456, Other complications of medical and surgical care and their sequelae (Y70-Y84Y88.2-Y88.3),1935,2010
+1028,3, Cholera (A00),1,2009
+1029,16, Plague (A20),1,2009
+1030,17, Brucellosis (A23),1,2009
+1031,45, Measles (B05),2,2009
+1032,45, Measles (B05),2,2010
+1033,46, Rubella (German measles) (B06),1,2009
+1034,46, Rubella (German measles) (B06),1,2010
+1035,344, Other abortion (O05),1,2009
